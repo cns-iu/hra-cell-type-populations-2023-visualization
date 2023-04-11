@@ -22,7 +22,6 @@ public class CsvToSo : MonoBehaviour
             {
                 if (line.Split(',')[0] == "organ") continue;
                 if (line.Split(',')[1] != "VH_F_kidney_capsule_R") continue;
-                if (counter > 20000) return;
 
                 SO_CellTypeCount count = ScriptableObject.CreateInstance<SO_CellTypeCount>();
                 count.organ = line.Split(',')[0];
