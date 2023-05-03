@@ -9,7 +9,7 @@ public static class Utils
         var result = new Matrix4x4(
             new Vector4(-1, 0, 0, 0),
             new Vector4(0, 1, 0, 0),
-            new Vector4(0, 0, -1, 0),
+            new Vector4(0, 0, 1, 0),
             new Vector4(0, 0, 0, 1)
         );
         return result;
