@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Tissue blocks registered to Visible Human Female, Left Kidney</title>
+    <base href="https://cdn.jsdelivr.net/gh/hubmapconsortium/ccf-ui@gh-pages/">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Outlined" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
+    <script src="wc.js" async></script>
+</head>
+
+<body>
+    <ccf-eui use-remote-api="false" hubmap-data-url="" login-disabled="true" logo-tooltip="" home-url="index.html"></ccf-eui>
+    <script>
+        window.addEventListener('DOMContentLoaded', () => {
+            const eui = document.querySelector('ccf-eui');
+            eui.dataSources = [
+                //change to GH Pages link when deploying
+                'http://127.0.0.1:5500/eui_embedded/data/rui_locations_hubmap.jsonld',
+                'http://127.0.0.1:5500/eui_embedded/data/rui_locations_gtex.jsonld',
+
+                // Uncomment below to add HuBMAP data
+                //'https://ccf-api.hubmapconsortium.org/v1/hubmap/rui_locations.jsonld'
+            ];
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 317a5fa022f8e434ea31fca29b955c0d, type: 3}
+  m_Name: VH_F_outer_cortex_of_kidney_L_202070
+  m_EditorClassIdentifier: 
+  organ: VH_F_Kidney_L
+  anatomicalStructure: VH_F_outer_cortex_of_kidney_L
+  cellType: Medullary Thick Ascending Limb
+  position: {x: 0.0928915, y: 0.257807, z: -0.129681}
