@@ -1,0 +1,1656 @@
+,organ,cell_type
+0,Adipose,B
+0,Adipose,Dendritic
+0,Adipose,Endometrial
+0,Adipose,Lymphatic Endothelial
+0,Adipose,Mast
+0,Adipose,Monocyte
+0,Adipose,NK
+0,Adipose,Neutrophil
+0,Adipose,Pericyte
+0,Adipose,Smooth Muscle
+0,Adipose,hASPC4
+0,Adipose,hASPC6
+0,Adipose,hAd4
+0,Adipose,hAd5
+0,Adipose,hAd6
+0,Adipose,hAd7
+0,Adipose,hBcell
+0,Adipose,hEndM
+0,Adipose,hEndoA1
+0,Adipose,hEndoA2
+0,Adipose,hEndoS2
+0,Adipose,hEndoS3
+0,Adipose,hLEC1
+0,Adipose,hLEC2
+0,Adipose,hMac2
+0,Adipose,hMast
+0,Adipose,hMes3
+0,Adipose,hMono1
+0,Adipose,hMono2
+0,Adipose,hNK
+0,Adipose,hNeu
+0,Adipose,hPeri
+0,Adipose,hPlasmablast
+0,Adipose,hSMC1
+0,Adipose,hSMC2
+0,Adipose,hTcell2
+0,Adipose,hTreg
+0,Adipose,hcDC1
+0,Adipose,hcDC2
+0,Adipose,hmDC
+0,Adipose,hpDC
+1,Adrenal_Gland,Schwann cell
+1,Adrenal_Gland,blood vessel endothelial cell
+1,Adrenal_Gland,erythroblast
+1,Adrenal_Gland,innate lymphoid cell
+1,Adrenal_Gland,megakaryocyte
+1,Adrenal_Gland,myeloid cell
+1,Adrenal_Gland,native cell
+1,Adrenal_Gland,sympathetic neuron
+2,Anterior_Part_Of_Tongue,Schwann cell
+2,Anterior_Part_Of_Tongue,capillary endothelial cell
+2,Anterior_Part_Of_Tongue,endothelial cell of artery
+2,Anterior_Part_Of_Tongue,endothelial cell of lymphatic vessel
+2,Anterior_Part_Of_Tongue,pericyte cell
+2,Anterior_Part_Of_Tongue,tongue muscle cell
+3,Blood,"CD14-low, CD16-positive monocyte"
+3,Blood,"CD14-positive, CD16-negative classical monocyte"
+3,Blood,"CD14-positive, CD16-positive monocyte"
+3,Blood,CD141-positive myeloid dendritic cell
+3,Blood,"CD16-negative, CD56-bright natural killer cell, human"
+3,Blood,"CD16-positive, CD56-dim natural killer cell, human"
+3,Blood,"CD34-positive, CD38-negative hematopoietic stem cell"
+3,Blood,CD4-positive helper T cell
+3,Blood,"CD4-positive, alpha-beta cytotoxic T cell"
+3,Blood,"CD4-positive, alpha-beta memory T cell"
+3,Blood,"CD4-positive, alpha-beta thymocyte"
+3,Blood,"CD8-positive, alpha-beta cytokine secreting effector T cell"
+3,Blood,"CD8-positive, alpha-beta cytotoxic T cell"
+3,Blood,"CD8-positive, alpha-beta memory T cell"
+3,Blood,"CD8-positive, alpha-beta memory T cell, CD45RO-positive"
+3,Blood,"CD8-positive, alpha-beta thymocyte"
+3,Blood,"ILC1, human"
+3,Blood,IgA plasma cell
+3,Blood,IgA plasmablast
+3,Blood,IgG memory B cell
+3,Blood,IgG plasma cell
+3,Blood,IgG plasmablast
+3,Blood,IgG-negative class switched memory B cell
+3,Blood,IgM plasma cell
+3,Blood,T cell
+3,Blood,T follicular helper cell
+3,Blood,T-helper 1 cell
+3,Blood,T-helper 17 cell
+3,Blood,T-helper 2 cell
+3,Blood,T-helper 22 cell
+3,Blood,"activated CD4-positive, alpha-beta T cell, human"
+3,Blood,"activated CD8-positive, alpha-beta T cell, human"
+3,Blood,alpha-beta T cell
+3,Blood,alveolar macrophage
+3,Blood,animal cell
+3,Blood,basal cell
+3,Blood,basophil
+3,Blood,blood cell
+3,Blood,"central memory CD8-positive, alpha-beta T cell"
+3,Blood,class switched memory B cell
+3,Blood,club cell
+3,Blood,common myeloid progenitor
+3,Blood,conventional dendritic cell
+3,Blood,dendritic cell
+3,Blood,"dendritic cell, human"
+3,Blood,double negative T regulatory cell
+3,Blood,double negative thymocyte
+3,Blood,"double-positive, alpha-beta thymocyte"
+3,Blood,"effector CD4-positive, alpha-beta T cell"
+3,Blood,"effector CD8-positive, alpha-beta T cell"
+3,Blood,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated"
+3,Blood,enucleated reticulocyte
+3,Blood,erythrocyte
+3,Blood,erythroid lineage cell
+3,Blood,"erythroid progenitor cell, mammalian"
+3,Blood,granulocyte
+3,Blood,"group 2 innate lymphoid cell, human"
+3,Blood,group 3 innate lymphoid cell
+3,Blood,hematopoietic precursor cell
+3,Blood,hematopoietic stem cell
+3,Blood,immature B cell
+3,Blood,immature neutrophil
+3,Blood,innate lymphoid cell
+3,Blood,intermediate monocyte
+3,Blood,lymphocyte
+3,Blood,macrophage
+3,Blood,mast cell
+3,Blood,mature NK T cell
+3,Blood,mature gamma-delta T cell
+3,Blood,megakaryocyte
+3,Blood,megakaryocyte-erythroid progenitor cell
+3,Blood,memory T cell
+3,Blood,monocyte
+3,Blood,mucosal invariant T cell
+3,Blood,myeloid dendritic cell
+3,Blood,myeloid lineage restricted progenitor cell
+3,Blood,naive T cell
+3,Blood,native cell
+3,Blood,neutrophil
+3,Blood,peripheral blood mononuclear cell
+3,Blood,plasma cell
+3,Blood,plasmablast
+3,Blood,plasmacytoid dendritic cell
+3,Blood,"plasmacytoid dendritic cell, human"
+3,Blood,platelet
+3,Blood,progenitor cell
+3,Blood,type I NK T cell
+3,Blood,unswitched memory B cell
+4,Blood_Vasculature,B cell
+4,Blood_Vasculature,endothelial cell of artery
+4,Blood_Vasculature,endothelial cell of lymphatic vessel
+4,Blood_Vasculature,epithelial cell
+4,Blood_Vasculature,epithelial cell of proximal tubule
+4,Blood_Vasculature,erythrocyte
+4,Blood_Vasculature,kidney epithelial cell
+4,Blood_Vasculature,mast cell
+4,Blood_Vasculature,mature NK T cell
+4,Blood_Vasculature,plasma cell
+5,Bone_Marrow,ASDC
+5,Bone_Marrow,BaEoMa
+5,Bone_Marrow,CD16 Mono
+5,Bone_Marrow,"CD16-negative, CD56-bright natural killer cell, human"
+5,Bone_Marrow,CD4-positive helper T cell
+5,Bone_Marrow,"CD4-positive, alpha-beta T cell"
+5,Bone_Marrow,"CD4-positive, alpha-beta thymocyte"
+5,Bone_Marrow,CD8 Effector_3
+5,Bone_Marrow,"CD8-positive, alpha-beta T cell"
+5,Bone_Marrow,"CD8-positive, alpha-beta memory T cell"
+5,Bone_Marrow,"CD8-positive, alpha-beta memory T cell, CD45RO-positive"
+5,Bone_Marrow,"CD8-positive, alpha-beta thymocyte"
+5,Bone_Marrow,CLP
+5,Bone_Marrow,EMP
+5,Bone_Marrow,Early Eryth
+5,Bone_Marrow,GMP
+5,Bone_Marrow,HSC
+5,Bone_Marrow,ILC
+5,Bone_Marrow,LMPP
+5,Bone_Marrow,MAIT
+5,Bone_Marrow,Macrophage
+5,Bone_Marrow,NK CD56+
+5,Bone_Marrow,NK Proliferating
+5,Bone_Marrow,Plasma
+5,Bone_Marrow,Platelet
+5,Bone_Marrow,Prog Mk
+5,Bone_Marrow,Stromal
+5,Bone_Marrow,T Proliferating
+5,Bone_Marrow,T follicular helper cell
+5,Bone_Marrow,alpha-beta T cell
+5,Bone_Marrow,alveolar macrophage
+5,Bone_Marrow,animal cell
+5,Bone_Marrow,cDC1
+5,Bone_Marrow,cDC2
+5,Bone_Marrow,classical monocyte
+5,Bone_Marrow,common myeloid progenitor
+5,Bone_Marrow,conventional dendritic cell
+5,Bone_Marrow,"effector memory CD4-positive, alpha-beta T cell"
+5,Bone_Marrow,erythrocyte
+5,Bone_Marrow,erythroid lineage cell
+5,Bone_Marrow,erythroid progenitor cell
+5,Bone_Marrow,gamma-delta T cell
+5,Bone_Marrow,germinal center B cell
+5,Bone_Marrow,granulocyte
+5,Bone_Marrow,group 3 innate lymphoid cell
+5,Bone_Marrow,hematopoietic stem cell
+5,Bone_Marrow,immature alpha-beta T cell
+5,Bone_Marrow,lymphocyte
+5,Bone_Marrow,macrophage
+5,Bone_Marrow,mast cell
+5,Bone_Marrow,mature NK T cell
+5,Bone_Marrow,mature alpha-beta T cell
+5,Bone_Marrow,megakaryocyte
+5,Bone_Marrow,memory B cell
+5,Bone_Marrow,monocyte
+5,Bone_Marrow,mucosal invariant T cell
+5,Bone_Marrow,naive B cell
+5,Bone_Marrow,"naive thymus-derived CD4-positive, alpha-beta T cell"
+5,Bone_Marrow,"naive thymus-derived CD8-positive, alpha-beta T cell"
+5,Bone_Marrow,neutrophil
+5,Bone_Marrow,non-classical monocyte
+5,Bone_Marrow,other
+5,Bone_Marrow,other T
+5,Bone_Marrow,pDC
+5,Bone_Marrow,plasma cell
+5,Bone_Marrow,plasmablast
+5,Bone_Marrow,plasmacytoid dendritic cell
+5,Bone_Marrow,pre B
+5,Bone_Marrow,pre-mDC
+5,Bone_Marrow,pre-pDC
+5,Bone_Marrow,precursor B cell
+5,Bone_Marrow,pro B
+5,Bone_Marrow,pro-B cell
+5,Bone_Marrow,progenitor cell
+5,Bone_Marrow,regulatory T cell
+6,Brain,Cajal-Retzius cell
+6,Brain,Chandelier Pvalb GABAergic cortical interneuron (Mus musculus)
+6,Brain,L5 extratelencephalic projecting glutamatergic cortical neuron
+6,Brain,L6b glutamatergic cortical neuron
+6,Brain,Lamp5 GABAergic cortical interneuron
+6,Brain,astrocyte of the cerebral cortex
+6,Brain,blood vessel endothelial cell
+6,Brain,caudal ganglionic eminence derived GABAergic cortical interneuron
+6,Brain,cerebral cortex endothelial cell
+6,Brain,corticothalamic-projecting glutamatergic cortical neuron
+6,Brain,endothelial cell of vascular tree
+6,Brain,glial cell
+6,Brain,macroglial cell
+6,Brain,megakaryocyte
+6,Brain,microglial cell
+6,Brain,near-projecting glutamatergic cortical neuron
+6,Brain,oligodendrocyte precursor cell
+6,Brain,sncg GABAergic cortical interneuron
+6,Brain,vascular leptomeningeal cell
+7,Brain_Motor_Cortex,Endo
+7,Brain_Motor_Cortex,Micro-PVM
+7,Brain_Motor_Cortex,OPC
+7,Brain_Motor_Cortex,Sst Chodl
+7,Brain_Motor_Cortex,VLMC
+8,Breast,
+9,Bronchopulmonary_Lymph_Node,immature alpha-beta T cell
+10,Cervical_Lymph_Node,
+11,Colon_Gut_Cell,B cell IgG Plasma
+11,Colon_Gut_Cell,B cell cycling
+11,Colon_Gut_Cell,LYVE1 Macrophage
+11,Colon_Gut_Cell,Lymphoid DC
+11,Colon_Gut_Cell,Macrophage
+11,Colon_Gut_Cell,Monocyte
+11,Colon_Gut_Cell,cDC1
+11,Colon_Gut_Cell,cDC2
+11,Colon_Gut_Cell,cycling DCs
+11,Colon_Gut_Cell,cycling gd T
+11,Colon_Gut_Cell,pDC
+12,Endothelial_Cell_(Cell_Culture),
+13,Epithelial_Cell_Of_Lung_(Cell_Culture),
+14,Epithelium_Of_Esophagus,B cell
+14,Epithelium_Of_Esophagus,"CD8-positive, alpha-beta T cell"
+14,Epithelium_Of_Esophagus,"CD8-positive, alpha-beta cytotoxic T cell"
+14,Epithelium_Of_Esophagus,dendritic cell
+14,Epithelium_Of_Esophagus,endothelial cell of lymphatic vessel
+14,Epithelium_Of_Esophagus,epithelial cell of stratum germinativum of esophagus
+14,Epithelium_Of_Esophagus,immature B cell
+14,Epithelium_Of_Esophagus,mast cell
+14,Epithelium_Of_Esophagus,mucus secreting cell
+14,Epithelium_Of_Esophagus,phagocyte
+14,Epithelium_Of_Esophagus,stromal cell
+15,Esophagus_Mucosa,Glia
+16,Esophagus_Muscularis,Adipocyte
+16,Esophagus_Muscularis,Immune (lymphocyte)
+16,Esophagus_Muscularis,Neuron
+17,Eye,B cell
+17,Eye,"CD4-positive, alpha-beta T cell"
+17,Eye,"CD8-positive, alpha-beta T cell"
+17,Eye,Mueller cell
+17,Eye,OFF-bipolar cell
+17,Eye,ON-bipolar cell
+17,Eye,T cell
+17,Eye,astrocyte
+17,Eye,bipolar neuron
+17,Eye,cell of skeletal muscle
+17,Eye,corneal epithelial cell
+17,Eye,dendritic cell
+17,Eye,endothelial cell
+17,Eye,endothelial cell of vascular tree
+17,Eye,epithelial cell of lacrimal sac
+17,Eye,erythroid lineage cell
+17,Eye,eye photoreceptor cell
+17,Eye,fat cell
+17,Eye,fibroblast
+17,Eye,ganglion interneuron
+17,Eye,keratocyte
+17,Eye,lens fiber cell
+17,Eye,macrophage
+17,Eye,mast cell
+17,Eye,melanocyte
+17,Eye,microglial cell
+17,Eye,monocyte
+17,Eye,native cell
+17,Eye,pigmented ciliary epithelial cell
+17,Eye,plasma cell
+17,Eye,radial glial cell
+17,Eye,retinal blood vessel endothelial cell
+17,Eye,retinal pigment epithelial cell
+17,Eye,smooth muscle cell
+17,Eye,stem cell
+17,Eye,stromal cell
+17,Eye,surface ectodermal cell
+18,Fallopian_Tube,B cell
+19,Heart,Adipocyte
+19,Heart,Arterial Endothelial
+19,Heart,B
+19,Heart,B cell
+19,Heart,CD14-positive monocyte
+19,Heart,"CD14-positive, CD16-positive monocyte"
+19,Heart,"CD4-positive, alpha-beta cytotoxic T cell"
+19,Heart,"CD8-positive, alpha-beta cytotoxic T cell"
+19,Heart,Endothelial cell
+19,Heart,Glia
+19,Heart,ILC
+19,Heart,Immune (lymphocyte)
+19,Heart,Immune (myeloid)
+19,Heart,Lymphatic Endothelial
+19,Heart,Mast
+19,Heart,Mesothelial
+19,Heart,Monocyte/cDC
+19,Heart,Muscle
+19,Heart,NK
+19,Heart,NK/T
+19,Heart,Neuronal
+19,Heart,Schwann cell
+19,Heart,T
+19,Heart,Venous Endothelial
+19,Heart,"activated CD4-positive, alpha-beta T cell"
+19,Heart,"activated CD8-positive, alpha-beta T cell"
+19,Heart,cardiac endothelial cell
+19,Heart,dendritic cell
+19,Heart,dermis microvascular lymphatic vessel endothelial cell
+19,Heart,endocardial cell
+19,Heart,endothelial cell
+19,Heart,endothelial cell of lymphatic vessel
+19,Heart,endothelial cell of vascular tree
+19,Heart,epicardial adipocyte
+19,Heart,erythroblast
+19,Heart,fibroblast of cardiac tissue
+19,Heart,hepatocyte
+19,Heart,innate lymphoid cell
+19,Heart,macrophage
+19,Heart,mast cell
+19,Heart,mature NK T cell
+19,Heart,megakaryocyte
+19,Heart,mesothelial cell
+19,Heart,monocyte
+19,Heart,myeloid cell
+19,Heart,natural killer cell
+19,Heart,neural cell
+19,Heart,smooth muscle cell
+19,Heart,stromal cell
+19,Heart,vein endothelial cell
+19,Heart,ventricular cardiac muscle cell
+19,Heart,visceromotor neuron
+20,Inguinal_Lymph_Node,CD141-positive myeloid dendritic cell
+20,Inguinal_Lymph_Node,CD1c-positive myeloid dendritic cell
+20,Inguinal_Lymph_Node,"CD4-positive, alpha-beta memory T cell"
+20,Inguinal_Lymph_Node,"CD8-positive, alpha-beta memory T cell"
+20,Inguinal_Lymph_Node,classical monocyte
+20,Inguinal_Lymph_Node,endothelial cell
+20,Inguinal_Lymph_Node,erythrocyte
+20,Inguinal_Lymph_Node,hematopoietic stem cell
+20,Inguinal_Lymph_Node,intermediate monocyte
+20,Inguinal_Lymph_Node,macrophage
+20,Inguinal_Lymph_Node,mast cell
+20,Inguinal_Lymph_Node,mature NK T cell
+20,Inguinal_Lymph_Node,mature conventional dendritic cell
+20,Inguinal_Lymph_Node,naive B cell
+20,Inguinal_Lymph_Node,"naive thymus-derived CD4-positive, alpha-beta T cell"
+20,Inguinal_Lymph_Node,neutrophil
+20,Inguinal_Lymph_Node,non-classical monocyte
+20,Inguinal_Lymph_Node,regulatory T cell
+21,Intestine,chromaffin cell
+21,Intestine,dendritic cell
+21,Intestine,endothelial cell of lymphatic vessel
+21,Intestine,enterocyte
+21,Intestine,enteroendocrine cell
+21,Intestine,erythroblast
+21,Intestine,erythroid lineage cell
+21,Intestine,group 3 innate lymphoid cell
+21,Intestine,gut absorptive cell
+21,Intestine,inhibitory motor neuron
+21,Intestine,interneuron
+21,Intestine,interstitial cell of Cajal
+21,Intestine,intestinal crypt stem cell of large intestine
+21,Intestine,intestinal crypt stem cell of small intestine
+21,Intestine,intestine goblet cell
+21,Intestine,macrophage
+21,Intestine,mesothelial cell
+21,Intestine,monocyte
+21,Intestine,motor neuron
+21,Intestine,naive T cell
+21,Intestine,neuroendocrine cell
+21,Intestine,precursor B cell
+21,Intestine,progenitor cell
+21,Intestine,secretory cell
+21,Intestine,smooth muscle cell
+21,Intestine,transit amplifying cell of colon
+21,Intestine,transit amplifying cell of small intestine
+22,Kidney,Afferent / Efferent Arteriole Endothelial
+22,Kidney,Afferent / Efferent Arteriole Endothelial Cell
+22,Kidney,Ascending Thin Limb Cell
+22,Kidney,Ascending Vasa Recta Endothelial
+22,Kidney,Ascending Vasa Recta Endothelial Cell
+22,Kidney,B
+22,Kidney,B Cell
+22,Kidney,B cell
+22,Kidney,CD4-positive helper T cell
+22,Kidney,"CD4-positive, alpha-beta T cell"
+22,Kidney,"CD8-positive, alpha-beta T cell"
+22,Kidney,Classical Dendritic
+22,Kidney,Classical Dendritic Cell
+22,Kidney,Connecting Tubule Cell
+22,Kidney,Connecting Tubule Intercalated Cell Type A
+22,Kidney,Connecting Tubule Intercalated Type A
+22,Kidney,Connecting Tubule Principal
+22,Kidney,Connecting Tubule Principal Cell
+22,Kidney,Cortical Collecting Duct Intercalated Cell Type A
+22,Kidney,Cortical Collecting Duct Intercalated Type A
+22,Kidney,Cortical Collecting Duct Principal
+22,Kidney,Cortical Collecting Duct Principal Cell
+22,Kidney,Cortical Thick Ascending Limb Cell
+22,Kidney,Cortical Vascular Smooth Muscle / Pericyte
+22,Kidney,Cortical Vascular Smooth Muscle Cell / Pericyte
+22,Kidney,Cycling Mononuclear Phagocyte
+22,Kidney,Descending Thin Limb
+22,Kidney,Descending Thin Limb Cell Type 1
+22,Kidney,Descending Thin Limb Cell Type 2
+22,Kidney,Descending Thin Limb Cell Type 3
+22,Kidney,Descending Thin Limb Type 3
+22,Kidney,Descending Vasa Recta Endothelial
+22,Kidney,Descending Vasa Recta Endothelial 
+22,Kidney,Descending Vasa Recta Endothelial Cell 
+22,Kidney,Distal Convoluted Tubule
+22,Kidney,Distal Convoluted Tubule Cell Type 1
+22,Kidney,Distal Convoluted Tubule Cell Type 2
+22,Kidney,Distal Convoluted Tubule Type 2
+22,Kidney,Endothelial
+22,Kidney,Glomerular Capillary Endothelial
+22,Kidney,Glomerular Capillary Endothelial Cell
+22,Kidney,Immune
+22,Kidney,Inner Medullary Collecting Duct Cell
+22,Kidney,Intercalated
+22,Kidney,Intercalated Cell Type B
+22,Kidney,Intercalated Type B
+22,Kidney,Lymphatic Endothelial
+22,Kidney,Lymphatic Endothelial Cell
+22,Kidney,M2 Macrophage
+22,Kidney,Macula Densa
+22,Kidney,Macula Densa Cell
+22,Kidney,Mast
+22,Kidney,Mast Cell
+22,Kidney,Medullary Fibroblast
+22,Kidney,Medullary Thick Ascending Limb Cell
+22,Kidney,Mesangial
+22,Kidney,Mesangial Cell
+22,Kidney,Monocyte
+22,Kidney,Monocyte-derived
+22,Kidney,Monocyte-derived Cell
+22,Kidney,Natural Killer / Natural Killer T
+22,Kidney,Natural Killer Cell / Natural Killer T Cell
+22,Kidney,Natural Killer T
+22,Kidney,Neural
+22,Kidney,Neutrophil
+22,Kidney,Non-classical monocyte
+22,Kidney,Outer Medullary Collecting Duct Intercalated Cell Type A
+22,Kidney,Outer Medullary Collecting Duct Intercalated Type A
+22,Kidney,Outer Medullary Collecting Duct Principal
+22,Kidney,Outer Medullary Collecting Duct Principal Cell
+22,Kidney,Papillary Tip Epithelial
+22,Kidney,Papillary Tip Epithelial Cell
+22,Kidney,Parietal Epithelial
+22,Kidney,Parietal Epithelial Cell
+22,Kidney,Peritubular Capilary Endothelial
+22,Kidney,Peritubular Capilary Endothelial 
+22,Kidney,Peritubular Capilary Endothelial Cell 
+22,Kidney,Plasma
+22,Kidney,Plasma Cell
+22,Kidney,Plasmacytoid Dendritic
+22,Kidney,Plasmacytoid Dendritic Cell
+22,Kidney,Podocyte
+22,Kidney,Principal
+22,Kidney,Proximal Tubule Epithelial Cell Segment 1
+22,Kidney,Proximal Tubule Epithelial Cell Segment 2
+22,Kidney,Proximal Tubule Epithelial Cell Segment 3
+22,Kidney,Proximal Tubule Epithelial Segment 2
+22,Kidney,Renal Unterstitial Pericyte
+22,Kidney,Renin-positive Juxtaglomerular Granular
+22,Kidney,Renin-positive Juxtaglomerular Granular Cell
+22,Kidney,Schwann
+22,Kidney,Schwann / Neural
+22,Kidney,Schwann Cell / Neural
+22,Kidney,T
+22,Kidney,T Cell
+22,Kidney,Tissue-resident Macrophage
+22,Kidney,Vascular Smooth Muscle / Pericyte
+22,Kidney,Vascular Smooth Muscle Cell / Pericyte
+22,Kidney,conventional dendritic cell
+22,Kidney,endothelial cell of vascular tree
+22,Kidney,epithelial cell of glomerular capsule
+22,Kidney,epithelial cell of nephron
+22,Kidney,epithelial cell of proximal tubule
+22,Kidney,erythroblast
+22,Kidney,erythroid lineage cell
+22,Kidney,fibroblast
+22,Kidney,glomerular endothelial cell
+22,Kidney,glomerular visceral epithelial cell
+22,Kidney,innate lymphoid cell
+22,Kidney,kidney collecting duct cell
+22,Kidney,kidney connecting tubule epithelial cell
+22,Kidney,kidney distal convoluted tubule epithelial cell
+22,Kidney,kidney epithelial cell
+22,Kidney,kidney granular cell
+22,Kidney,kidney inner medulla collecting duct epithelial cell
+22,Kidney,kidney interstitial cell
+22,Kidney,kidney loop of Henle epithelial cell
+22,Kidney,lymphocyte
+22,Kidney,macrophage
+22,Kidney,macula densa epithelial cell
+22,Kidney,mast cell
+22,Kidney,mature NK T cell
+22,Kidney,megakaryocyte
+22,Kidney,mesenchymal stem cell
+22,Kidney,monocyte
+22,Kidney,mononuclear phagocyte
+22,Kidney,myeloid cell
+22,Kidney,myofibroblast cell
+22,Kidney,natural killer cell
+22,Kidney,nephron tubule epithelial cell
+22,Kidney,neutrophil
+22,Kidney,parietal epithelial cell
+22,Kidney,pericyte cell
+22,Kidney,peritubular capillary endothelial cell
+22,Kidney,plasmacytoid dendritic cell
+22,Kidney,progenitor cell
+22,Kidney,renal alpha-intercalated cell
+22,Kidney,renal beta-intercalated cell
+22,Kidney,renal principal cell
+22,Kidney,stromal cell
+22,Kidney,taste receptor cell
+22,Kidney,urothelial cell
+22,Kidney,vasa recta ascending limb cell
+22,Kidney,vasa recta descending limb cell
+23,Large_Intestine,"CD16-negative, CD56-bright natural killer cell, human"
+23,Large_Intestine,"CD16-positive, CD56-dim natural killer cell, human"
+23,Large_Intestine,"CD8-positive, alpha-beta memory T cell, CD45RO-positive"
+23,Large_Intestine,T follicular helper cell
+23,Large_Intestine,alveolar macrophage
+23,Large_Intestine,animal cell
+23,Large_Intestine,classical monocyte
+23,Large_Intestine,conventional dendritic cell
+23,Large_Intestine,dendritic cell
+23,Large_Intestine,"dendritic cell, human"
+23,Large_Intestine,"effector memory CD4-positive, alpha-beta T cell"
+23,Large_Intestine,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated"
+23,Large_Intestine,enteric smooth muscle cell
+23,Large_Intestine,enteroendocrine cell
+23,Large_Intestine,erythroid lineage cell
+23,Large_Intestine,glial cell
+23,Large_Intestine,goblet cell
+23,Large_Intestine,group 3 innate lymphoid cell
+23,Large_Intestine,gut absorptive cell
+23,Large_Intestine,gut endothelial cell
+23,Large_Intestine,inhibitory motor neuron
+23,Large_Intestine,interstitial cell of Cajal
+23,Large_Intestine,intestinal crypt stem cell
+23,Large_Intestine,intestinal crypt stem cell of large intestine
+23,Large_Intestine,intestinal crypt stem cell of small intestine
+23,Large_Intestine,intestinal enteroendocrine cell
+23,Large_Intestine,intestinal tuft cell
+23,Large_Intestine,large intestine goblet cell
+23,Large_Intestine,leukocyte
+23,Large_Intestine,lymphocyte
+23,Large_Intestine,memory B cell
+23,Large_Intestine,motor neuron
+23,Large_Intestine,mucosal invariant T cell
+23,Large_Intestine,myofibroblast cell
+23,Large_Intestine,naive B cell
+23,Large_Intestine,naive T cell
+23,Large_Intestine,"naive thymus-derived CD4-positive, alpha-beta T cell"
+23,Large_Intestine,"naive thymus-derived CD8-positive, alpha-beta T cell"
+23,Large_Intestine,natural killer cell
+23,Large_Intestine,neural cell
+23,Large_Intestine,neuroendocrine cell
+23,Large_Intestine,neutrophil
+23,Large_Intestine,non-classical monocyte
+23,Large_Intestine,pericyte cell
+23,Large_Intestine,plasmablast
+23,Large_Intestine,plasmacytoid dendritic cell
+23,Large_Intestine,progenitor cell
+23,Large_Intestine,regulatory T cell
+23,Large_Intestine,secretory cell
+23,Large_Intestine,transit amplifying cell of colon
+23,Large_Intestine,transit amplifying cell of small intestine
+24,Liver,CD4-positive helper T cell
+24,Liver,"CD8-positive, alpha-beta memory T cell"
+24,Liver,"CD8-positive, alpha-beta memory T cell, CD45RO-positive"
+24,Liver,T cell
+24,Liver,T follicular helper cell
+24,Liver,alpha-beta T cell
+24,Liver,alveolar macrophage
+24,Liver,animal cell
+24,Liver,conventional dendritic cell
+24,Liver,"dendritic cell, human"
+24,Liver,"effector memory CD4-positive, alpha-beta T cell"
+24,Liver,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated"
+24,Liver,endothelial cell
+24,Liver,endothelial cell of hepatic sinusoid
+24,Liver,erythrocyte
+24,Liver,erythroid lineage cell
+24,Liver,fibroblast
+24,Liver,gamma-delta T cell
+24,Liver,germinal center B cell
+24,Liver,group 3 innate lymphoid cell
+24,Liver,hematopoietic stem cell
+24,Liver,innate lymphoid cell
+24,Liver,intrahepatic cholangiocyte
+24,Liver,liver dendritic cell
+24,Liver,lymphocyte
+24,Liver,mast cell
+24,Liver,mature NK T cell
+24,Liver,memory B cell
+24,Liver,mesothelial cell
+24,Liver,monocyte
+24,Liver,naive B cell
+24,Liver,"naive thymus-derived CD4-positive, alpha-beta T cell"
+24,Liver,"naive thymus-derived CD8-positive, alpha-beta T cell"
+24,Liver,neutrophil
+24,Liver,non-classical monocyte
+24,Liver,plasma cell
+24,Liver,plasmablast
+24,Liver,plasmacytoid dendritic cell
+24,Liver,precursor B cell
+24,Liver,progenitor cell
+24,Liver,regulatory T cell
+25,Lung,AT1
+25,Lung,AT2 proliferating
+25,Lung,Adventitial Fibroblast
+25,Lung,Adventitial fibroblasts
+25,Lung,Airway Smooth Muscle
+25,Lung,Alveolar Epithelial Type 1
+25,Lung,Alveolar Epithelial Type 2
+25,Lung,Alveolar Fibroblast
+25,Lung,Alveolar Mφ CCL3+
+25,Lung,Alveolar Mφ MT-positive
+25,Lung,Alveolar Mφ proliferating
+25,Lung,Alveolar fibroblasts
+25,Lung,Artery
+25,Lung,B
+25,Lung,B cell
+25,Lung,B cell lineage
+25,Lung,B cells
+25,Lung,Basophil/Mast
+25,Lung,Basophil/Mast 1
+25,Lung,Basophil/Mast 2
+25,Lung,Bronchial Vessel
+25,Lung,Bronchial Vessel 1
+25,Lung,Bronchial Vessel 2
+25,Lung,CD14+ Monocyte
+25,Lung,CD16+ Monocyte
+25,Lung,"CD16-negative, CD56-bright natural killer cell, human"
+25,Lung,"CD16-positive, CD56-dim natural killer cell, human"
+25,Lung,CD4 T
+25,Lung,CD4+ Memory/Effector T
+25,Lung,CD4+ Naive T
+25,Lung,CD4-positive helper T cell
+25,Lung,"CD4-positive, alpha-beta T cell"
+25,Lung,"CD4-positive, alpha-beta thymocyte"
+25,Lung,CD8 T
+25,Lung,CD8+ Memory/Effector T
+25,Lung,CD8+ Naive T
+25,Lung,"CD8-positive, alpha-beta T cell"
+25,Lung,"CD8-positive, alpha-beta cytotoxic T cell"
+25,Lung,"CD8-positive, alpha-beta memory T cell"
+25,Lung,"CD8-positive, alpha-beta memory T cell, CD45RO-positive"
+25,Lung,"CD8-positive, alpha-beta thymocyte"
+25,Lung,Capillary
+25,Lung,Capillary Aerocyte
+25,Lung,Capillary Intermediate
+25,Lung,Capillary Intermediate 1
+25,Lung,Capillary Intermediate 2
+25,Lung,Ciliated
+25,Lung,Classical Monocyte
+25,Lung,Classical monocytes
+25,Lung,Club
+25,Lung,Club (non-nasal)
+25,Lung,DC1
+25,Lung,DC2
+25,Lung,Dendritic
+25,Lung,Dendritic cells
+25,Lung,Deuterosomal
+25,Lung,Differentiating Basal
+25,Lung,EC aerocyte capillary
+25,Lung,EC arterial
+25,Lung,EC capillary
+25,Lung,EC general capillary
+25,Lung,EC venous
+25,Lung,EC venous pulmonary
+25,Lung,EC venous systemic
+25,Lung,EREG+ Dendritic
+25,Lung,Endothelial cell
+25,Lung,Epithelial cell
+25,Lung,Fibroblast
+25,Lung,Fibroblast lineage
+25,Lung,Fibroblasts
+25,Lung,Fibromyocyte
+25,Lung,Fibromyocytes
+25,Lung,Goblet
+25,Lung,Goblet (bronchial)
+25,Lung,Goblet (subsegmental)
+25,Lung,IGSF21+ Dendritic
+25,Lung,Immune (lymphocyte)
+25,Lung,Immune (myeloid)
+25,Lung,Innate lymphoid cell NK
+25,Lung,Intermediate Monocyte
+25,Lung,Interstitial Mφ perivascular
+25,Lung,Interstitial macrophages
+25,Lung,Ionocyte
+25,Lung,Lipofibroblast
+25,Lung,Lymphatic
+25,Lung,Lymphatic EC
+25,Lung,Lymphatic EC differentiating
+25,Lung,Lymphatic EC mature
+25,Lung,Lymphatic EC proliferating
+25,Lung,Macrophage
+25,Lung,Mast cells
+25,Lung,Mesothelial
+25,Lung,Mesothelium
+25,Lung,Migratory DCs
+25,Lung,Monocytes
+25,Lung,Mucous
+25,Lung,Multiciliated
+25,Lung,Multiciliated (nasal)
+25,Lung,Multiciliated lineage
+25,Lung,Muscle
+25,Lung,Myeloid Dendritic Type 1
+25,Lung,Myeloid Dendritic Type 2
+25,Lung,Myofibroblast
+25,Lung,Myofibroblasts
+25,Lung,NK cells
+25,Lung,Natural Killer
+25,Lung,Natural Killer T
+25,Lung,Neuroendocrine
+25,Lung,Non-classical monocytes
+25,Lung,Nonclassical Monocyte
+25,Lung,OLR1+ Classical Monocyte
+25,Lung,Peribronchial fibroblasts
+25,Lung,Pericyte
+25,Lung,Pericytes
+25,Lung,Plasma
+25,Lung,Plasma cells
+25,Lung,Plasmacytoid DCs
+25,Lung,Plasmacytoid Dendritic
+25,Lung,Platelet/Megakaryocyte
+25,Lung,Proliferating Basal
+25,Lung,Proliferating Macrophage
+25,Lung,Proliferating NK/T
+25,Lung,Proximal Basal
+25,Lung,Proximal Ciliated
+25,Lung,Rare
+25,Lung,SM activated stress response
+25,Lung,SMG duct
+25,Lung,SMG mucous
+25,Lung,SMG serous
+25,Lung,SMG serous (bronchial)
+25,Lung,SMG serous (nasal)
+25,Lung,Serous
+25,Lung,Signaling Alveolar Epithelial Type 2
+25,Lung,Smooth Muscle
+25,Lung,Smooth muscle
+25,Lung,Stroma
+25,Lung,Submucosal Gland
+25,Lung,Submucosal Secretory
+25,Lung,Subpleural fibroblasts
+25,Lung,T cell
+25,Lung,T cells proliferating
+25,Lung,T follicular helper cell
+25,Lung,TREM2+ Dendritic
+25,Lung,Transitional Club-AT2
+25,Lung,Tuft
+25,Lung,Vascular Smooth Muscle
+25,Lung,Vein
+25,Lung,adventitial cell
+25,Lung,alpha-beta T cell
+25,Lung,alveolar macrophage
+25,Lung,animal cell
+25,Lung,basal cell
+25,Lung,basal cell of epithelium of bronchus
+25,Lung,basophil
+25,Lung,blood vessel endothelial cell
+25,Lung,bronchial goblet cell
+25,Lung,bronchial smooth muscle cell
+25,Lung,brush cell
+25,Lung,brush cell of bronchus
+25,Lung,capillary endothelial cell
+25,Lung,chondrocyte
+25,Lung,ciliated cell
+25,Lung,ciliated cell of the bronchus
+25,Lung,ciliated epithelial cell
+25,Lung,classical monocyte
+25,Lung,club cell
+25,Lung,conventional dendritic cell
+25,Lung,dendritic cell
+25,Lung,"dendritic cell, human"
+25,Lung,"effector CD4-positive, alpha-beta T cell"
+25,Lung,"effector CD8-positive, alpha-beta T cell"
+25,Lung,"effector memory CD4-positive, alpha-beta T cell"
+25,Lung,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated"
+25,Lung,endothelial cell
+25,Lung,endothelial cell of artery
+25,Lung,endothelial cell of lymphatic vessel
+25,Lung,endothelial cell of vascular tree
+25,Lung,enucleate erythrocyte
+25,Lung,epithelial cell
+25,Lung,fibroblast
+25,Lung,gamma-delta T cell
+25,Lung,germinal center B cell
+25,Lung,goblet cell
+25,Lung,group 3 innate lymphoid cell
+25,Lung,immature alpha-beta T cell
+25,Lung,innate lymphoid cell
+25,Lung,intermediate monocyte
+25,Lung,ionocyte
+25,Lung,lung ciliated cell
+25,Lung,lung macrophage
+25,Lung,lung microvascular endothelial cell
+25,Lung,lung neuroendocrine cell
+25,Lung,lymphocyte
+25,Lung,macrophage
+25,Lung,mammary alveolar cell
+25,Lung,mast cell
+25,Lung,mature NK T cell
+25,Lung,mature alpha-beta T cell
+25,Lung,megakaryocyte
+25,Lung,memory B cell
+25,Lung,mesothelial cell
+25,Lung,monocyte
+25,Lung,mononuclear cell
+25,Lung,mucosal invariant T cell
+25,Lung,muscle cell
+25,Lung,myeloid cell
+25,Lung,myofibroblast cell
+25,Lung,naive B cell
+25,Lung,"naive thymus-derived CD4-positive, alpha-beta T cell"
+25,Lung,"naive thymus-derived CD8-positive, alpha-beta T cell"
+25,Lung,native cell
+25,Lung,natural killer cell
+25,Lung,neuroendocrine cell
+25,Lung,neutrophil
+25,Lung,non-classical monocyte
+25,Lung,pericyte cell
+25,Lung,plasma cell
+25,Lung,plasmablast
+25,Lung,plasmacytoid dendritic cell
+25,Lung,pneumocyte
+25,Lung,progenitor cell
+25,Lung,pulmonary ionocyte
+25,Lung,regulatory T cell
+25,Lung,respiratory goblet cell
+25,Lung,secretory cell
+25,Lung,serous cell of epithelium of bronchus
+25,Lung,smooth muscle cell
+25,Lung,somatic cell
+25,Lung,squamous epithelial cell
+25,Lung,type I pneumocyte
+25,Lung,type II pneumocyte
+25,Lung,vascular associated smooth muscle cell
+25,Lung,vein endothelial cell
+25,Lung,visceromotor neuron
+26,Lymph Node,R2_Cluster_8
+26,Lymph Node,R2_Cluster_9
+27,Lymph_Node,alveolar macrophage
+27,Lymph_Node,animal cell
+27,Lymph_Node,classical monocyte
+27,Lymph_Node,conventional dendritic cell
+27,Lymph_Node,"dendritic cell, human"
+27,Lymph_Node,erythroid lineage cell
+27,Lymph_Node,gamma-delta T cell
+27,Lymph_Node,germinal center B cell
+27,Lymph_Node,lymphocyte
+27,Lymph_Node,macrophage
+27,Lymph_Node,mast cell
+27,Lymph_Node,mucosal invariant T cell
+27,Lymph_Node,non-classical monocyte
+27,Lymph_Node,plasma cell
+27,Lymph_Node,plasmablast
+27,Lymph_Node,plasmacytoid dendritic cell
+27,Lymph_Node,progenitor cell
+28,Mammary_Gland,B cell
+28,Mammary_Gland,endothelial cell of lymphatic vessel
+28,Mammary_Gland,mast cell
+28,Mammary_Gland,mature NK T cell
+28,Mammary_Gland,pericyte cell
+28,Mammary_Gland,vascular associated smooth muscle cell
+29,Mesenteric_Lymph_Node,CD141-positive myeloid dendritic cell
+29,Mesenteric_Lymph_Node,CD1c-positive myeloid dendritic cell
+29,Mesenteric_Lymph_Node,"CD4-positive, alpha-beta cytotoxic T cell"
+29,Mesenteric_Lymph_Node,"CD8-positive, alpha-beta T cell"
+29,Mesenteric_Lymph_Node,"CD8-positive, alpha-beta thymocyte"
+29,Mesenteric_Lymph_Node,T follicular helper cell
+29,Mesenteric_Lymph_Node,classical monocyte
+29,Mesenteric_Lymph_Node,endothelial cell
+29,Mesenteric_Lymph_Node,erythrocyte
+29,Mesenteric_Lymph_Node,exhausted T cell
+29,Mesenteric_Lymph_Node,follicular dendritic cell
+29,Mesenteric_Lymph_Node,hematopoietic stem cell
+29,Mesenteric_Lymph_Node,immature alpha-beta T cell
+29,Mesenteric_Lymph_Node,intermediate monocyte
+29,Mesenteric_Lymph_Node,mast cell
+29,Mesenteric_Lymph_Node,mature alpha-beta T cell
+29,Mesenteric_Lymph_Node,mature conventional dendritic cell
+29,Mesenteric_Lymph_Node,myeloid cell
+29,Mesenteric_Lymph_Node,"naive thymus-derived CD8-positive, alpha-beta T cell"
+29,Mesenteric_Lymph_Node,neutrophil
+29,Mesenteric_Lymph_Node,non-classical monocyte
+29,Mesenteric_Lymph_Node,plasmacytoid dendritic cell
+29,Mesenteric_Lymph_Node,stromal cell
+30,Motor_Cortex,Astro
+30,Motor_Cortex,Astro L1 FGFR3 SERPINI2
+30,Motor_Cortex,Astro L1-6 FGFR3 AQP1
+30,Motor_Cortex,Astro L1-6 FGFR3 PLCG1
+30,Motor_Cortex,Astro_1
+30,Motor_Cortex,Astro_2
+30,Motor_Cortex,Chandelier
+30,Motor_Cortex,Endo
+30,Motor_Cortex,Endo L2-5 NOSTRIN SRGN
+30,Motor_Cortex,Exc L2 LAMP5 KCNG3
+30,Motor_Cortex,Exc L2 LINC00507 ATP7B
+30,Motor_Cortex,Exc L2-3 LINC00507 DSG3
+30,Motor_Cortex,Exc L2-3 RORB CCDC68
+30,Motor_Cortex,Exc L2-3 RORB PTPN3
+30,Motor_Cortex,Exc L2-3 RORB RTKN2
+30,Motor_Cortex,Exc L3 LAMP5 CARM1P1
+30,Motor_Cortex,Exc L3 RORB OTOGL
+30,Motor_Cortex,Exc L3 THEMIS ENPEP
+30,Motor_Cortex,Exc L3-5 FEZF2 ASGR2
+30,Motor_Cortex,Exc L3-5 FEZF2 LINC01107
+30,Motor_Cortex,Exc L3-5 RORB LAMA4
+30,Motor_Cortex,Exc L3-5 RORB LINC01202
+30,Motor_Cortex,Exc L3-5 RORB LNX2
+30,Motor_Cortex,Exc L3-5 RORB RPRM
+30,Motor_Cortex,Exc L3-5 RORB TNNT2
+30,Motor_Cortex,Exc L5 FEZF2 CSN1S1
+30,Motor_Cortex,Exc L5 FEZF2 NREP-AS1
+30,Motor_Cortex,Exc L5 FEZF2 PKD2L1
+30,Motor_Cortex,Exc L5 FEZF2 RNF144A-AS1
+30,Motor_Cortex,Exc L5 RORB MED8
+30,Motor_Cortex,Exc L5 THEMIS FGF10
+30,Motor_Cortex,Exc L5 THEMIS LINC01116
+30,Motor_Cortex,Exc L5 THEMIS RGPD6
+30,Motor_Cortex,Exc L5 THEMIS SLC22A18
+30,Motor_Cortex,Exc L5 THEMIS VILL
+30,Motor_Cortex,Exc L5-6 FEZF2 CFTR
+30,Motor_Cortex,Exc L5-6 FEZF2 FILIP1L
+30,Motor_Cortex,Exc L5-6 FEZF2 IFNG-AS1
+30,Motor_Cortex,Exc L5-6 FEZF2 LPO
+30,Motor_Cortex,Exc L5-6 FEZF2 OR1L8
+30,Motor_Cortex,Exc L5-6 FEZF2 SH2D1B
+30,Motor_Cortex,Exc L5-6 THEMIS SMYD1
+30,Motor_Cortex,Exc L5-6 THEMIS TNFAIP6
+30,Motor_Cortex,Exc L6 FEZF2 FFAR4
+30,Motor_Cortex,Exc L6 FEZF2 PDYN
+30,Motor_Cortex,Exc L6 FEZF2 POGK
+30,Motor_Cortex,Exc L6 FEZF2 PROKR2
+30,Motor_Cortex,Exc L6 THEMIS LINC00343
+30,Motor_Cortex,Exc L6 THEMIS SLN
+30,Motor_Cortex,Exc L6 THEMIS SNTG2
+30,Motor_Cortex,Inh L1 LAMP5 BMP2
+30,Motor_Cortex,Inh L1 LAMP5 NMBR
+30,Motor_Cortex,Inh L1 LAMP5 PVRL2
+30,Motor_Cortex,Inh L1 LAMP5 RAB11FIP1
+30,Motor_Cortex,Inh L1 PAX6 CHRFAM7A
+30,Motor_Cortex,Inh L1 PAX6 MIR101-1
+30,Motor_Cortex,Inh L1 PVALB SST ASIC4
+30,Motor_Cortex,Inh L1 SST DEFB108B
+30,Motor_Cortex,Inh L1 SST P4HA3
+30,Motor_Cortex,Inh L1 VIP KLHDC8B
+30,Motor_Cortex,Inh L1-2 PVALB CDK20
+30,Motor_Cortex,Inh L1-2 SST CCNJL
+30,Motor_Cortex,Inh L1-2 SST CLIC6
+30,Motor_Cortex,Inh L1-2 SST PRRT4
+30,Motor_Cortex,Inh L1-2 VIP EXPH5
+30,Motor_Cortex,Inh L1-2 VIP HTR3A
+30,Motor_Cortex,Inh L1-2 VIP PTGER3
+30,Motor_Cortex,Inh L1-2 VIP SCML4
+30,Motor_Cortex,Inh L1-2 VIP WNT4
+30,Motor_Cortex,Inh L1-3 SST FAM20A
+30,Motor_Cortex,Inh L1-3 VIP CBLN1
+30,Motor_Cortex,Inh L1-3 VIP CHRNA2
+30,Motor_Cortex,Inh L1-3 VIP FNDC1
+30,Motor_Cortex,Inh L1-3 VIP HSPB6
+30,Motor_Cortex,Inh L1-5 VIP CD27-AS1
+30,Motor_Cortex,Inh L1-5 VIP LINC01013
+30,Motor_Cortex,Inh L1-5 VIP PHLDB3
+30,Motor_Cortex,Inh L1-5 VIP SMOC1
+30,Motor_Cortex,Inh L1-6 LAMP5 AARD
+30,Motor_Cortex,Inh L1-6 LAMP5 CA1
+30,Motor_Cortex,Inh L1-6 LAMP5 NES
+30,Motor_Cortex,Inh L1-6 PVALB COL15A1
+30,Motor_Cortex,Inh L1-6 SST NPY
+30,Motor_Cortex,Inh L1-6 VIP SLC7A6OS
+30,Motor_Cortex,Inh L2 PAX6 FREM2
+30,Motor_Cortex,Inh L2 PVALB FRZB
+30,Motor_Cortex,Inh L2 VIP SLC6A16
+30,Motor_Cortex,Inh L2-3 SST NMU
+30,Motor_Cortex,Inh L2-5 PVALB HHIPL1
+30,Motor_Cortex,Inh L2-5 PVALB RPH3AL
+30,Motor_Cortex,Inh L2-5 VIP BSPRY
+30,Motor_Cortex,Inh L2-5 VIP SOX11
+30,Motor_Cortex,Inh L3 PVALB SAMD13
+30,Motor_Cortex,Inh L3-5 PVALB ISG20
+30,Motor_Cortex,Inh L3-5 SST CDH3
+30,Motor_Cortex,Inh L3-5 SST GGTLC3
+30,Motor_Cortex,Inh L3-5 SST OR5AH1P
+30,Motor_Cortex,Inh L3-5 VIP HS3ST3A1
+30,Motor_Cortex,Inh L3-5 VIP IGDCC3
+30,Motor_Cortex,Inh L3-5 VIP TAC3
+30,Motor_Cortex,Inh L3-6 PAX6 LINC01497
+30,Motor_Cortex,Inh L3-6 VIP UG0898H09
+30,Motor_Cortex,Inh L3-6 VIP ZIM2-AS1
+30,Motor_Cortex,Inh L5 PVALB LRIG3
+30,Motor_Cortex,Inh L5 SST RPL35AP11
+30,Motor_Cortex,Inh L5-6 LAMP5 CRABP1
+30,Motor_Cortex,Inh L5-6 PVALB FAM150B
+30,Motor_Cortex,Inh L5-6 PVALB GAPDHP60
+30,Motor_Cortex,Inh L5-6 PVALB KCNIP2
+30,Motor_Cortex,Inh L5-6 PVALB MEPE
+30,Motor_Cortex,Inh L5-6 PVALB SST CRHR2
+30,Motor_Cortex,Inh L5-6 PVALB ZFPM2-AS1
+30,Motor_Cortex,Inh L5-6 SST BEAN1
+30,Motor_Cortex,Inh L5-6 SST C4orf26
+30,Motor_Cortex,Inh L5-6 SST DNAJC14
+30,Motor_Cortex,Inh L5-6 SST FBN2
+30,Motor_Cortex,Inh L5-6 SST ISX
+30,Motor_Cortex,Inh L5-6 SST KLHL1
+30,Motor_Cortex,Inh L5-6 SST PAWR
+30,Motor_Cortex,Inh L5-6 SST PIK3CD
+30,Motor_Cortex,Inh L5-6 VIP COL4A3
+30,Motor_Cortex,Inh L6 SST TH
+30,Motor_Cortex,L5 ET
+30,Motor_Cortex,L5 ET_1
+30,Motor_Cortex,L5 ET_2
+30,Motor_Cortex,L5 IT_3
+30,Motor_Cortex,L6 CT_1
+30,Motor_Cortex,L6 IT Car3
+30,Motor_Cortex,L6 IT_2
+30,Motor_Cortex,L6 IT_3
+30,Motor_Cortex,Lamp5_1
+30,Motor_Cortex,Lamp5_3
+30,Motor_Cortex,Lamp5_4
+30,Motor_Cortex,Lamp5_5
+30,Motor_Cortex,Micro L1-6 TYROBP CD74
+30,Motor_Cortex,Micro-PVM
+30,Motor_Cortex,Microglia/PVM
+30,Motor_Cortex,OPC
+30,Motor_Cortex,OPC L1-6 PDGFRA COL20A1
+30,Motor_Cortex,Oligo L2-6 OPALIN MAP6D1
+30,Motor_Cortex,Oligo L3-6 OPALIN ENPP6
+30,Motor_Cortex,Oligo L3-6 OPALIN LRP4-AS1
+30,Motor_Cortex,Oligo L5-6 OPALIN LDLRAP1
+30,Motor_Cortex,Oligo_1
+30,Motor_Cortex,Pvalb_2
+30,Motor_Cortex,Sncg
+30,Motor_Cortex,Sncg_1
+30,Motor_Cortex,Sncg_2
+30,Motor_Cortex,Sncg_3
+30,Motor_Cortex,Sncg_4
+30,Motor_Cortex,Sst Chodl
+30,Motor_Cortex,Sst_1
+30,Motor_Cortex,Sst_2
+30,Motor_Cortex,Sst_4
+30,Motor_Cortex,Sst_5
+30,Motor_Cortex,Sst_6
+30,Motor_Cortex,Sst_7
+30,Motor_Cortex,VLMC
+30,Motor_Cortex,VLMC L1-5 PDGFRA COLEC12
+30,Motor_Cortex,Vip_1
+30,Motor_Cortex,Vip_2
+30,Motor_Cortex,Vip_3
+30,Motor_Cortex,Vip_4
+30,Motor_Cortex,exclude
+31,Muscle_Of_Abdomen,"CD4-positive, alpha-beta T cell"
+31,Muscle_Of_Abdomen,"CD8-positive, alpha-beta T cell"
+31,Muscle_Of_Abdomen,T cell
+31,Muscle_Of_Abdomen,endothelial cell of artery
+31,Muscle_Of_Abdomen,endothelial cell of lymphatic vessel
+31,Muscle_Of_Abdomen,erythrocyte
+31,Muscle_Of_Abdomen,fast muscle cell
+31,Muscle_Of_Abdomen,mast cell
+31,Muscle_Of_Abdomen,mature NK T cell
+31,Muscle_Of_Abdomen,slow muscle cell
+31,Muscle_Of_Abdomen,smooth muscle cell
+31,Muscle_Of_Abdomen,tendon cell
+32,Muscle_Of_Pelvic_Diaphragm,"CD4-positive, alpha-beta T cell"
+32,Muscle_Of_Pelvic_Diaphragm,endothelial cell of artery
+32,Muscle_Of_Pelvic_Diaphragm,erythrocyte
+32,Muscle_Of_Pelvic_Diaphragm,fast muscle cell
+32,Muscle_Of_Pelvic_Diaphragm,mast cell
+32,Muscle_Of_Pelvic_Diaphragm,mature NK T cell
+32,Muscle_Of_Pelvic_Diaphragm,mesothelial cell
+32,Muscle_Of_Pelvic_Diaphragm,slow muscle cell
+32,Muscle_Of_Pelvic_Diaphragm,smooth muscle cell
+32,Muscle_Of_Pelvic_Diaphragm,tendon cell
+33,Muscle_Organ,Schwann cell
+33,Muscle_Organ,endothelial cell of lymphatic vessel
+33,Muscle_Organ,erythroblast
+33,Muscle_Organ,innate lymphoid cell
+33,Muscle_Organ,megakaryocyte
+33,Muscle_Organ,myeloid cell
+34,Muscle_Tissue,"CD4-positive, alpha-beta T cell"
+34,Muscle_Tissue,endothelial cell of artery
+34,Muscle_Tissue,endothelial cell of lymphatic vessel
+34,Muscle_Tissue,erythrocyte
+34,Muscle_Tissue,fast muscle cell
+34,Muscle_Tissue,mast cell
+34,Muscle_Tissue,mature NK T cell
+34,Muscle_Tissue,mesothelial cell
+34,Muscle_Tissue,slow muscle cell
+34,Muscle_Tissue,smooth muscle cell
+34,Muscle_Tissue,tendon cell
+35,Omentum,"CD8-positive, alpha-beta memory T cell"
+35,Omentum,animal cell
+35,Omentum,conventional dendritic cell
+35,Omentum,"dendritic cell, human"
+35,Omentum,group 3 innate lymphoid cell
+35,Omentum,mast cell
+35,Omentum,"naive thymus-derived CD8-positive, alpha-beta T cell"
+36,PBMC,ASDC
+36,PBMC,ASDC_mDC
+36,PBMC,ASDC_pDC
+36,PBMC,B intermediate
+36,PBMC,B intermediate kappa
+36,PBMC,B intermediate lambda
+36,PBMC,B memory
+36,PBMC,B memory kappa
+36,PBMC,B memory lambda
+36,PBMC,B naive
+36,PBMC,B naive kappa
+36,PBMC,B naive lambda
+36,PBMC,CD4 CTL
+36,PBMC,CD4 Proliferating
+36,PBMC,CD4 TCM_2
+36,PBMC,CD4 TEM
+36,PBMC,CD4 TEM_1
+36,PBMC,CD4 TEM_2
+36,PBMC,CD4 TEM_3
+36,PBMC,CD4 TEM_4
+36,PBMC,CD8 Naive_2
+36,PBMC,CD8 Proliferating
+36,PBMC,CD8 TCM_1
+36,PBMC,CD8 TCM_3
+36,PBMC,CD8 TEM_1
+36,PBMC,CD8 TEM_2
+36,PBMC,CD8 TEM_3
+36,PBMC,CD8 TEM_4
+36,PBMC,CD8 TEM_5
+36,PBMC,CD8 TEM_6
+36,PBMC,DC
+36,PBMC,Eryth
+36,PBMC,HSPC
+36,PBMC,ILC
+36,PBMC,NK Proliferating
+36,PBMC,NK_1
+36,PBMC,NK_2
+36,PBMC,NK_3
+36,PBMC,NK_4
+36,PBMC,NK_CD56bright
+36,PBMC,Plasma
+36,PBMC,Plasmablast
+36,PBMC,Treg
+36,PBMC,Treg Memory
+36,PBMC,Treg Naive
+36,PBMC,cDC1
+36,PBMC,cDC2
+36,PBMC,cDC2_1
+36,PBMC,cDC2_2
+36,PBMC,dnT
+36,PBMC,dnT_1
+36,PBMC,dnT_2
+36,PBMC,gdT
+36,PBMC,gdT_1
+36,PBMC,gdT_2
+36,PBMC,gdT_3
+36,PBMC,gdT_4
+36,PBMC,other
+36,PBMC,pDC
+37,Pancreas,B cell
+37,Pancreas,PP cell
+37,Pancreas,T cell
+37,Pancreas,activated_stellate
+37,Pancreas,cycling
+37,Pancreas,endothelial
+37,Pancreas,endothelial cell of lymphatic vessel
+37,Pancreas,enteric neuron
+37,Pancreas,epsilon
+37,Pancreas,erythroblast
+37,Pancreas,fibroblast
+37,Pancreas,gamma
+37,Pancreas,glial cell
+37,Pancreas,immune
+37,Pancreas,mast cell
+37,Pancreas,mature NK T cell
+37,Pancreas,mesenchymal cell
+37,Pancreas,mesothelial cell
+37,Pancreas,pancreatic D cell
+37,Pancreas,pancreatic PP cell
+37,Pancreas,pancreatic endocrine cell
+37,Pancreas,pancreatic epsilon cell
+37,Pancreas,plasma cell
+37,Pancreas,quiescent_stellate
+37,Pancreas,schwann
+37,Pancreas,type A enteroendocrine cell
+37,Pancreas,type D enteroendocrine cell
+38,Parotid_Gland,B cell
+38,Parotid_Gland,"CD4-positive, alpha-beta T cell"
+38,Parotid_Gland,T cell
+38,Parotid_Gland,basal cell
+38,Parotid_Gland,endothelial cell
+38,Parotid_Gland,endothelial cell of lymphatic vessel
+38,Parotid_Gland,myoepithelial cell
+38,Parotid_Gland,neutrophil
+38,Parotid_Gland,pericyte cell
+38,Parotid_Gland,plasma cell
+39,Placenta,chorionic trophoblast cell
+39,Placenta,megakaryocyte
+39,Placenta,native cell
+40,Posterior_Part_Of_Tongue,Schwann cell
+40,Posterior_Part_Of_Tongue,capillary endothelial cell
+40,Posterior_Part_Of_Tongue,endothelial cell of artery
+40,Posterior_Part_Of_Tongue,endothelial cell of lymphatic vessel
+40,Posterior_Part_Of_Tongue,pericyte cell
+40,Posterior_Part_Of_Tongue,tongue muscle cell
+41,Prostate,B cell
+41,Prostate,CD141-positive myeloid dendritic cell
+41,Prostate,CD1c-positive myeloid dendritic cell
+41,Prostate,"CD4-positive, alpha-beta thymocyte"
+41,Prostate,"CD8-positive, alpha-beta T cell"
+41,Prostate,Fibroblast
+41,Prostate,Glia
+41,Prostate,Immune (lymphocyte)
+41,Prostate,Immune (myeloid)
+41,Prostate,T cell
+41,Prostate,classical monocyte
+41,Prostate,club cell
+41,Prostate,dendritic cell
+41,Prostate,"effector CD4-positive, alpha-beta T cell"
+41,Prostate,"effector CD8-positive, alpha-beta T cell"
+41,Prostate,endothelial cell
+41,Prostate,erythroid progenitor cell
+41,Prostate,fibroblast
+41,Prostate,fibroblast of connective tissue of glandular part of prostate
+41,Prostate,fibroblast of connective tissue of nonglandular part of prostate
+41,Prostate,granulocyte
+41,Prostate,leukocyte
+41,Prostate,macrophage
+41,Prostate,mast cell
+41,Prostate,mature NK T cell
+41,Prostate,monocyte
+41,Prostate,myeloid cell
+41,Prostate,neuroendocrine cell
+41,Prostate,neutrophil
+41,Prostate,non-classical monocyte
+41,Prostate,pericyte cell
+41,Prostate,plasma cell
+41,Prostate,smooth muscle cell
+41,Prostate,sperm
+41,Prostate,stromal cell
+41,Prostate,vascular associated smooth muscle cell
+42,Rectus_Abdominis_Muscle,"CD4-positive, alpha-beta T cell"
+42,Rectus_Abdominis_Muscle,"CD8-positive, alpha-beta T cell"
+42,Rectus_Abdominis_Muscle,T cell
+42,Rectus_Abdominis_Muscle,endothelial cell of artery
+42,Rectus_Abdominis_Muscle,endothelial cell of lymphatic vessel
+42,Rectus_Abdominis_Muscle,erythrocyte
+42,Rectus_Abdominis_Muscle,fast muscle cell
+42,Rectus_Abdominis_Muscle,mast cell
+42,Rectus_Abdominis_Muscle,mature NK T cell
+42,Rectus_Abdominis_Muscle,mesothelial cell
+42,Rectus_Abdominis_Muscle,slow muscle cell
+42,Rectus_Abdominis_Muscle,smooth muscle cell
+42,Rectus_Abdominis_Muscle,tendon cell
+43,Respiratory_System,"CD4-positive, alpha-beta T cell"
+43,Respiratory_System,"double-positive, alpha-beta thymocyte"
+43,Respiratory_System,goblet cell
+43,Respiratory_System,ionocyte
+43,Respiratory_System,mast cell
+43,Respiratory_System,mucus secreting cell
+43,Respiratory_System,serous cell of epithelium of trachea
+43,Respiratory_System,tracheal goblet cell
+44,Saliva-Secreting_Gland,B cell
+44,Saliva-Secreting_Gland,"CD4-positive, alpha-beta T cell"
+44,Saliva-Secreting_Gland,T cell
+44,Saliva-Secreting_Gland,ionocyte
+44,Saliva-Secreting_Gland,myoepithelial cell
+44,Saliva-Secreting_Gland,neutrophil
+44,Saliva-Secreting_Gland,pericyte cell
+44,Saliva-Secreting_Gland,salivary gland cell
+45,Skeletal_Muscle,Adipocyte
+45,Skeletal_Muscle,Glia
+45,Skeletal_Muscle,Immune (lymphocyte)
+46,Skeletal_Muscle_Tissue,"CD8-positive, alpha-beta memory T cell"
+46,Skeletal_Muscle_Tissue,T follicular helper cell
+46,Skeletal_Muscle_Tissue,alpha-beta T cell
+46,Skeletal_Muscle_Tissue,alveolar macrophage
+46,Skeletal_Muscle_Tissue,animal cell
+46,Skeletal_Muscle_Tissue,conventional dendritic cell
+46,Skeletal_Muscle_Tissue,megakaryocyte
+46,Skeletal_Muscle_Tissue,mucosal invariant T cell
+46,Skeletal_Muscle_Tissue,naive B cell
+46,Skeletal_Muscle_Tissue,"naive thymus-derived CD8-positive, alpha-beta T cell"
+46,Skeletal_Muscle_Tissue,plasma cell
+46,Skeletal_Muscle_Tissue,plasmablast
+46,Skeletal_Muscle_Tissue,plasmacytoid dendritic cell
+46,Skeletal_Muscle_Tissue,progenitor cell
+46,Skeletal_Muscle_Tissue,regulatory T cell
+47,Skin,Adipocyte
+47,Skin,CD141-positive myeloid dendritic cell
+47,Skin,CD1c-positive myeloid dendritic cell
+47,Skin,CD4-positive helper T cell
+47,Skin,"CD8-positive, alpha-beta cytotoxic T cell"
+47,Skin,Immune (lymphocyte)
+47,Skin,Immune (myeloid)
+47,Skin,Langerhans cell
+47,Skin,Melanocyte
+47,Skin,Muscle
+47,Skin,Other
+47,Skin,cell of skeletal muscle
+47,Skin,epithelial cell
+47,Skin,melanocyte
+47,Skin,memory B cell
+47,Skin,naive B cell
+47,Skin,"naive thymus-derived CD4-positive, alpha-beta T cell"
+47,Skin,"naive thymus-derived CD8-positive, alpha-beta T cell"
+47,Skin,plasma cell
+47,Skin,regulatory T cell
+47,Skin,smooth muscle cell
+48,Small_Intestine,"CD16-negative, CD56-bright natural killer cell, human"
+48,Small_Intestine,"CD16-positive, CD56-dim natural killer cell, human"
+48,Small_Intestine,"CD8-positive, alpha-beta memory T cell, CD45RO-positive"
+48,Small_Intestine,T follicular helper cell
+48,Small_Intestine,alveolar macrophage
+48,Small_Intestine,animal cell
+48,Small_Intestine,classical monocyte
+48,Small_Intestine,conventional dendritic cell
+48,Small_Intestine,"dendritic cell, human"
+48,Small_Intestine,duodenum glandular cell
+48,Small_Intestine,"effector memory CD4-positive, alpha-beta T cell"
+48,Small_Intestine,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated"
+48,Small_Intestine,fibroblast
+48,Small_Intestine,germinal center B cell
+48,Small_Intestine,goblet cell
+48,Small_Intestine,group 3 innate lymphoid cell
+48,Small_Intestine,gut endothelial cell
+48,Small_Intestine,intestinal crypt stem cell
+48,Small_Intestine,intestinal crypt stem cell of small intestine
+48,Small_Intestine,intestinal enteroendocrine cell
+48,Small_Intestine,intestinal tuft cell
+48,Small_Intestine,lymphocyte
+48,Small_Intestine,macrophage
+48,Small_Intestine,mast cell
+48,Small_Intestine,megakaryocyte
+48,Small_Intestine,memory B cell
+48,Small_Intestine,monocyte
+48,Small_Intestine,mucosal invariant T cell
+48,Small_Intestine,naive B cell
+48,Small_Intestine,"naive thymus-derived CD4-positive, alpha-beta T cell"
+48,Small_Intestine,"naive thymus-derived CD8-positive, alpha-beta T cell"
+48,Small_Intestine,neutrophil
+48,Small_Intestine,non-classical monocyte
+48,Small_Intestine,plasma cell
+48,Small_Intestine,plasmablast
+48,Small_Intestine,plasmacytoid dendritic cell
+48,Small_Intestine,progenitor cell
+48,Small_Intestine,regulatory T cell
+48,Small_Intestine,small intestine goblet cell
+48,Small_Intestine,transit amplifying cell of small intestine
+49,Spleen,CD141-positive myeloid dendritic cell
+49,Spleen,CD1c-positive myeloid dendritic cell
+49,Spleen,CD4-positive helper T cell
+49,Spleen,"CD4-positive, CD25-positive, alpha-beta regulatory T cell"
+49,Spleen,"CD4-positive, alpha-beta memory T cell"
+49,Spleen,"CD8-alpha alpha positive, gamma-delta intraepithelial T cell"
+49,Spleen,IgG plasma cell
+49,Spleen,T cell
+49,Spleen,alpha-beta T cell
+49,Spleen,alveolar macrophage
+49,Spleen,animal cell
+49,Spleen,conventional dendritic cell
+49,Spleen,dendritic cell
+49,Spleen,"dendritic cell, human"
+49,Spleen,endothelial cell
+49,Spleen,erythroblast
+49,Spleen,erythrocyte
+49,Spleen,erythroid lineage cell
+49,Spleen,gamma-delta T cell
+49,Spleen,germinal center B cell
+49,Spleen,group 3 innate lymphoid cell
+49,Spleen,hematopoietic stem cell
+49,Spleen,intermediate monocyte
+49,Spleen,mast cell
+49,Spleen,megakaryocyte
+49,Spleen,mesothelial cell
+49,Spleen,mucosal invariant T cell
+49,Spleen,myeloid cell
+49,Spleen,"naive thymus-derived CD8-positive, alpha-beta T cell"
+49,Spleen,native cell
+49,Spleen,non-classical monocyte
+49,Spleen,plasmacytoid dendritic cell
+49,Spleen,platelet
+49,Spleen,precursor B cell
+49,Spleen,pro-B cell
+49,Spleen,progenitor cell
+49,Spleen,regulatory T cell
+49,Spleen,stromal cell
+49,Spleen,type I NK T cell
+50,Stomach,endothelial cell of lymphatic vessel
+50,Stomach,enteric neuron
+50,Stomach,erythroblast
+50,Stomach,glial cell
+51,Subcutaneous_Adipose_Tissue,B cell
+51,Subcutaneous_Adipose_Tissue,leukocyte
+51,Subcutaneous_Adipose_Tissue,mast cell
+51,Subcutaneous_Adipose_Tissue,mesenchymal stem cell
+51,Subcutaneous_Adipose_Tissue,neutrophil
+51,Subcutaneous_Adipose_Tissue,plasma cell
+51,Subcutaneous_Adipose_Tissue,smooth muscle cell
+52,Submandibular_Gland,myoepithelial cell
+52,Submandibular_Gland,salivary gland cell
+53,Thoracic_Lymph_Node,"CD16-positive, CD56-dim natural killer cell, human"
+53,Thoracic_Lymph_Node,"CD8-positive, alpha-beta memory T cell"
+53,Thoracic_Lymph_Node,alveolar macrophage
+53,Thoracic_Lymph_Node,animal cell
+53,Thoracic_Lymph_Node,classical monocyte
+53,Thoracic_Lymph_Node,conventional dendritic cell
+53,Thoracic_Lymph_Node,"dendritic cell, human"
+53,Thoracic_Lymph_Node,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated"
+53,Thoracic_Lymph_Node,erythroid lineage cell
+53,Thoracic_Lymph_Node,gamma-delta T cell
+53,Thoracic_Lymph_Node,germinal center B cell
+53,Thoracic_Lymph_Node,group 3 innate lymphoid cell
+53,Thoracic_Lymph_Node,lymphocyte
+53,Thoracic_Lymph_Node,macrophage
+53,Thoracic_Lymph_Node,mast cell
+53,Thoracic_Lymph_Node,mucosal invariant T cell
+53,Thoracic_Lymph_Node,non-classical monocyte
+53,Thoracic_Lymph_Node,plasma cell
+53,Thoracic_Lymph_Node,plasmablast
+53,Thoracic_Lymph_Node,plasmacytoid dendritic cell
+53,Thoracic_Lymph_Node,pro-B cell
+53,Thoracic_Lymph_Node,progenitor cell
+54,Thymus,B cell
+54,Thymus,"CD16-positive, CD56-dim natural killer cell, human"
+54,Thymus,CD4-positive helper T cell
+54,Thymus,"CD8-positive, alpha-beta memory T cell, CD45RO-positive"
+54,Thymus,T follicular helper cell
+54,Thymus,alpha-beta T cell
+54,Thymus,classical monocyte
+54,Thymus,"effector memory CD4-positive, alpha-beta T cell"
+54,Thymus,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated"
+54,Thymus,endothelial cell of vascular tree
+54,Thymus,epithelial cell of thymus
+54,Thymus,gamma-delta T cell
+54,Thymus,germinal center B cell
+54,Thymus,group 3 innate lymphoid cell
+54,Thymus,leukocyte
+54,Thymus,lymphocyte
+54,Thymus,mast cell
+54,Thymus,memory B cell
+54,Thymus,mucosal invariant T cell
+54,Thymus,naive B cell
+54,Thymus,"naive thymus-derived CD4-positive, alpha-beta T cell"
+54,Thymus,"naive thymus-derived CD8-positive, alpha-beta T cell"
+54,Thymus,plasma cell
+54,Thymus,progenitor cell
+54,Thymus,regulatory T cell
+54,Thymus,smooth muscle cell
+54,Thymus,stromal cell
+55,Tongue,Schwann cell
+55,Tongue,capillary endothelial cell
+55,Tongue,endothelial cell of artery
+55,Tongue,endothelial cell of lymphatic vessel
+55,Tongue,pericyte cell
+55,Tongue,tongue muscle cell
+56,Tonsil,Basal cells
+56,Tonsil,C1Q HLA macrophages
+56,Tonsil,CD14+CD55+ FDC
+56,Tonsil,CD16+CD56- NK
+56,Tonsil,CD16-CD56+ NK
+56,Tonsil,CD16-CD56- NK
+56,Tonsil,CD56+ gd T
+56,Tonsil,CD8 T
+56,Tonsil,CD8 Tf
+56,Tonsil,CM CD8 T
+56,Tonsil,CM Pre-non-Tfh
+56,Tonsil,CXCR6+ RM CD8 T
+56,Tonsil,Crypt
+56,Tonsil,Cycling
+56,Tonsil,Cycling T
+56,Tonsil,Cycling follicular dendritic
+56,Tonsil,Cycling myeloid
+56,Tonsil,DC recruiters CD8 T
+56,Tonsil,DC1 mature
+56,Tonsil,DC1 precursor
+56,Tonsil,DC2
+56,Tonsil,DC3
+56,Tonsil,DC4
+56,Tonsil,DC5
+56,Tonsil,DN
+56,Tonsil,DZ FDC
+56,Tonsil,DZ migratory PC precursor
+56,Tonsil,DZ-cell cycle exit
+56,Tonsil,DZ-nonproliferative
+56,Tonsil,DZ_G2M_HistoneHigh
+56,Tonsil,Dark Zone GCBC
+56,Tonsil,Dendritic
+56,Tonsil,Double negative T
+56,Tonsil,Early GC-commited MYC+
+56,Tonsil,Early MBC
+56,Tonsil,Early PC precursor
+56,Tonsil,Eff-Tregs
+56,Tonsil,Epithelial
+56,Tonsil,FCRL5+ MBC
+56,Tonsil,FDCSP epithelium
+56,Tonsil,FDC_multiome
+56,Tonsil,FRC
+56,Tonsil,Follicular dendritic
+56,Tonsil,GC DZ Noproli
+56,Tonsil,GC LZ Noproli
+56,Tonsil,GC-Tf-regs
+56,Tonsil,GC-Tfh-0X40
+56,Tonsil,GC-commited MIR155HG+
+56,Tonsil,GC-commited MIR155HG-
+56,Tonsil,GC-commited metabolic activation
+56,Tonsil,Granulocytes
+56,Tonsil,IFN CD8 T
+56,Tonsil,IFN1+ PDC
+56,Tonsil,IL7R DC
+56,Tonsil,IL7R MMP12 macrophages
+56,Tonsil,ILC1
+56,Tonsil,ITGAX ZEB2 macrophages
+56,Tonsil,IgD PC precursor
+56,Tonsil,IgG+ PC precursor
+56,Tonsil,IgM+ PC precursor
+56,Tonsil,IgM+ early PC precursor
+56,Tonsil,Innate lymphoid
+56,Tonsil,LZ
+56,Tonsil,LZ FDC
+56,Tonsil,LZ-BCL2A1 neg
+56,Tonsil,LZ-DZ-re-entry early commitment
+56,Tonsil,LZ-proliferative_BCL2A1neg
+56,Tonsil,LZ-proliferative_BCL2A1pos
+56,Tonsil,Light Zone GCBC
+56,Tonsil,M1 Macrophages
+56,Tonsil,MAIT
+56,Tonsil,MBC derived IgA+ PC
+56,Tonsil,MBC derived IgG+ PC
+56,Tonsil,MBC derived PC precursor
+56,Tonsil,MBC derived early PC precursor
+56,Tonsil,MBC-like_FCRL4+
+56,Tonsil,MBC-like_nonproli
+56,Tonsil,MBC-like_proli1
+56,Tonsil,MBC-like_proli2
+56,Tonsil,MBC-like_proli3
+56,Tonsil,MRC
+56,Tonsil,Mast
+56,Tonsil,Mast cells
+56,Tonsil,Mature IgA+ PC
+56,Tonsil,Mature IgG+ PC
+56,Tonsil,Mature IgM+ PC
+56,Tonsil,Monocyte/macrophage
+56,Tonsil,Monocytes
+56,Tonsil,NBC CD229+
+56,Tonsil,NBC IFN-activated
+56,Tonsil,NBC S100A+
+56,Tonsil,NBC/OA first step activation
+56,Tonsil,NKp44+ ILC3
+56,Tonsil,NKp44- ILC3
+56,Tonsil,Natural killer
+56,Tonsil,Neutrophil Granulocytes
+56,Tonsil,Nksig CD8 T
+56,Tonsil,Outer surface
+56,Tonsil,PB
+56,Tonsil,PB committed early PC precursor
+56,Tonsil,PC committed Light Zone GCBC
+56,Tonsil,PC-precursors
+56,Tonsil,PDC
+56,Tonsil,PDC_multiome
+56,Tonsil,Plasmacytoid dendritic
+56,Tonsil,Proliferative NBC
+56,Tonsil,RM CD8 T
+56,Tonsil,SCM CD8 T
+56,Tonsil,SELENOP FUCA1 PTGDS macrophages
+56,Tonsil,Short lived IgM+ PC
+56,Tonsil,Surface epithelium
+56,Tonsil,T-Eff-Mem
+56,Tonsil,T-Trans-Mem
+56,Tonsil,T-helper
+56,Tonsil,TCRVδ+ gd T
+56,Tonsil,Tfh T:B border
+56,Tonsil,Tfh-Mem
+56,Tonsil,Transitional PB
+56,Tonsil,VEGFA+
+56,Tonsil,aDC1
+56,Tonsil,aDC2
+56,Tonsil,aDC3
+56,Tonsil,class switch MBC
+56,Tonsil,cycling FDC
+56,Tonsil,cycling T
+56,Tonsil,epithelial_multiome
+56,Tonsil,myeloid_multiome
+56,Tonsil,ncsMBC FCRL4+
+56,Tonsil,non-GC-Tf-regs
+56,Tonsil,preB
+56,Tonsil,preB/T
+56,Tonsil,preGC_1
+56,Tonsil,preGC_2
+56,Tonsil,preMature IgG+ PC
+56,Tonsil,preMature IgM+ PC
+56,Tonsil,preT
+56,Tonsil,unknown
+57,Urinary_Bladder,capillary endothelial cell
+57,Urinary_Bladder,endothelial cell of lymphatic vessel
+57,Urinary_Bladder,plasmacytoid dendritic cell
+58,Uterus,B cell
+58,Uterus,ciliated epithelial cell
+58,Uterus,epithelial cell
+58,Uterus,leukocyte
+58,Uterus,mature NK T cell
+59,Vasculature,B cell
+59,Vasculature,endothelial cell of artery
+59,Vasculature,endothelial cell of lymphatic vessel
+59,Vasculature,epithelial cell
+59,Vasculature,erythrocyte
+59,Vasculature,mast cell
+59,Vasculature,mature NK T cell
+59,Vasculature,plasma cell
