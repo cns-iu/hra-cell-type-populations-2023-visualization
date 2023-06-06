@@ -14,15 +14,24 @@ public class Visualizer : MonoBehaviour
 {
     [Header("Data")]
     [SerializeField] private List<GameObject> _cells = new List<GameObject>();
-    [SerializeField] private List<SO_CellTypeCount> _counts = new List<SO_CellTypeCount>();
-    [SerializeField] private GameObject _pre_cell;
-    [SerializeField] SO_CellTypeCount _cc;
-    private string _root = "Assets\\Resources\\ScriptableObjects";
-
-    [Header("Visual encoding")]
-    [SerializeField] private List<Color> _colors = new List<Color>();
-    private Dictionary<string, Color> _dictColor = new Dictionary<string, Color>();
+    [SerializeField] private List<SO_CellTypeCount> _allCellTypeCounts = new List<SO_CellTypeCount>();
     [SerializeField] private List<string> _uniqueCellTypes = new List<string>();
+    private Dictionary<string, int> _dictCountsPerCT = new Dictionary<string, int>();
+    [SerializeField] private List<string> _topCellTypes = new List<string>();
+    private string _root = "Assets\\Resources\\ScriptableObjects";
+    [SerializeField] int _readIterator = 10;
+
+    [Header("Visual Encoding")]
+    [SerializeField] private List<Color> _colors = new List<Color>();
+    [SerializeField] private Dictionary<string, Color> _colorMapping = new Dictionary<string, Color>();
+    [SerializeField] private List<ColorMapping> _mapping = new List<ColorMapping>();
+
+    [SerializeField] private int _maxNumberCellTypes = 10;
+    [SerializeField] private List<Color> _colorBrewer = new List<Color>();
+
+    [Header("3D Scene")]
+    [SerializeField] private GameObject _pre_cell;
+    [SerializeField] private List<Transform> _parents = new List<Transform>();
 
     // Start is called before the first frame update
     void Start()
@@ -30,34 +39,63 @@ public class Visualizer : MonoBehaviour
         var sos = Resources.LoadAll<SO_CellTypeCount>("ScriptableObjects/");
         HashSet<string> unique = new HashSet<string>();
 
-        foreach (var s in sos)
+        for (int i = 0; i < sos.Length; i += _readIterator)
         {
-            _counts.Add(s);
-            GameObject cellObl = MakeCell(s);
-            cellObl.AddComponent<CellData>().type = s.cellType;
-            _cells.Add(cellObl);
+            _allCellTypeCounts.Add(sos[i]);
 
-            unique.Add(s.cellType);
+            if (!_dictCountsPerCT.ContainsKey(sos[i].cellType))
+                _dictCountsPerCT.Add(sos[i].cellType, 1);
+            else
+                _dictCountsPerCT[sos[i].cellType]++;
         }
+
+        //get 10 CTs with most occurrences
+        var maxOccurences = _dictCountsPerCT.OrderByDescending(kvp => kvp.Value).ToList().Take(_maxNumberCellTypes);
+
+
+        foreach (var item in maxOccurences)
+        {
+            _topCellTypes.Add(item.Key);
+        }
+
+        for (int i = 0; i < sos.Length; i += _readIterator)
+        {
+            if (!_topCellTypes.Contains(sos[i].cellType)) continue;
+
+            GameObject cellObj = MakeCell(sos[i]);
+            cellObj.AddComponent<CellData>().type = sos[i].cellType;
+            _cells.Add(cellObj);
+            unique.Add(sos[i].cellType);
+        }
+
         _uniqueCellTypes = unique.ToList();
         _colors = CreateColorSet();
 
+
+
+        //foreach (var cell in _cells)
         foreach (var cell in _cells)
         {
+            CellData data = cell.GetComponent<CellData>();
             cell.GetComponent<SpriteRenderer>().material.color = GetColor(cell.GetComponent<CellData>().type);
         }
+
+        //foreach (var item in _dictCountsPerCT)
+        //{
+        //    Debug.Log($"{item.Key} occurs {item.Value} times.");
+        //}
 
     }
 
     private Color GetColor(string cellType)
     {
-        return _dictColor[cellType];
+        //return _colorMapping[cellType];
+        //Debug.Log(cellType);
+        return _mapping.Where(i => i.cellType.Equals(cellType)).First().color;
     }
 
     private List<Color> CreateColorSet()
     {
-
-
         int customSeed = 1234;
         UnityEngine.Random.InitState(customSeed);
 
@@ -71,7 +109,7 @@ public class Visualizer : MonoBehaviour
                 );
 
             result.Add(c);
-            _dictColor.Add(_uniqueCellTypes[i], c);
+            _colorMapping.Add(_uniqueCellTypes[i], c);
         }
         return result;
     }
@@ -80,6 +118,15 @@ public class Visualizer : MonoBehaviour
     {
         GameObject cell = Instantiate(_pre_cell, count.position, Quaternion.identity);
         cell.transform.position = AdjustPosition(cell);
+
+        foreach (var p in _parents)
+        {
+            if (count.anatomicalStructure.Equals(p.name))
+            {
+                cell.transform.parent = p;
+            }
+        }
+
         return cell;
     }
 
@@ -92,5 +139,13 @@ public class Visualizer : MonoBehaviour
             );
 
         return reflected.GetPosition();
+    }
+
+    [Serializable]
+    private class ColorMapping
+    {
+        public string cellType;
+        public Color color;
+
     }
 }
