@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Macula Densa
-  position: {x: 0.073073, y: 0.221281, z: -0.119123}
+  cellType: Inner Medullary Collecting Duct
+  position: {x: 0.0718822, y: 0.284386, z: -0.107899}

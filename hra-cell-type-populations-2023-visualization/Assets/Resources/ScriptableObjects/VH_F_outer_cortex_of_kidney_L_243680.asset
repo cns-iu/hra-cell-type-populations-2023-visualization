@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Podocyte
-  position: {x: 0.0912498, y: 0.267117, z: -0.122198}
+  cellType: Inner Medullary Collecting Duct
+  position: {x: 0.107257, y: 0.226859, z: -0.108869}

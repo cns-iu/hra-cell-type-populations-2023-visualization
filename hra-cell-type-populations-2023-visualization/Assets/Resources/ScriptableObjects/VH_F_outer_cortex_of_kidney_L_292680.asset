@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Proximal Tubule Epithelial Segment 3
-  position: {x: 0.0825997, y: 0.276761, z: -0.103738}
+  cellType: M2 Macrophage
+  position: {x: 0.0603563, y: 0.221832, z: -0.108723}

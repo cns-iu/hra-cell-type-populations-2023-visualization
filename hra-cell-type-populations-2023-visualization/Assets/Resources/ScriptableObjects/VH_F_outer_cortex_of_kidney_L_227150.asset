@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Parietal Epithelial
-  position: {x: 0.0866857, y: 0.216066, z: -0.0717927}
+  cellType: Inner Medullary Collecting Duct
+  position: {x: 0.0715693, y: 0.238975, z: -0.127733}

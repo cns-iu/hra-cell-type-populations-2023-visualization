@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Mast
-  position: {x: 0.102346, y: 0.250271, z: -0.0942604}
+  cellType: Inner Medullary Collecting Duct
+  position: {x: 0.0743844, y: 0.235873, z: -0.128154}

@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Cortical Thick Ascending Limb
-  position: {x: 0.0570819, y: 0.21501, z: -0.106089}
+  cellType: Cortical Collecting Duct Principal
+  position: {x: 0.0577361, y: 0.226137, z: -0.11613}

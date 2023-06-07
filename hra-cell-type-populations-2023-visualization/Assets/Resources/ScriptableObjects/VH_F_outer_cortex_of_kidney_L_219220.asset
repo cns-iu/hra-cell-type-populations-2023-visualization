@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Natural Killer / Natural Killer T
-  position: {x: 0.0648291, y: 0.2592, z: -0.126441}
+  cellType: Inner Medullary Collecting Duct
+  position: {x: 0.10515, y: 0.240041, z: -0.115158}

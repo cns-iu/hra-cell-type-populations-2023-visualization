@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Cortical Thick Ascending Limb
-  position: {x: 0.0656714, y: 0.230087, z: -0.118263}
+  cellType: Cortical Vascular Smooth Muscle / Pericyte
+  position: {x: 0.106021, y: 0.245612, z: -0.102586}

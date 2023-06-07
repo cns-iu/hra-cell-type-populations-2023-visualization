@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Lymphatic Endothelial
-  position: {x: 0.0947936, y: 0.266232, z: -0.0913789}
+  cellType: Inner Medullary Collecting Duct
+  position: {x: 0.0813966, y: 0.260366, z: -0.0868603}

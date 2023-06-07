@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: B
-  position: {x: 0.0939599, y: 0.25796, z: -0.0887833}
+  cellType: Connecting Tubule
+  position: {x: 0.0878622, y: 0.213303, z: -0.0665319}

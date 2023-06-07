@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Proximal Tubule Epithelial Segment 3
-  position: {x: 0.0563521, y: 0.295766, z: -0.110064}
+  cellType: Lymphatic Endothelial
+  position: {x: 0.0783852, y: 0.268835, z: -0.132256}

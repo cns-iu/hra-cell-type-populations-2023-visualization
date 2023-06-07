@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: T
-  position: {x: 0.0550017, y: 0.248982, z: -0.112752}
+  cellType: Medullary Fibroblast
+  position: {x: 0.0867969, y: 0.216567, z: -0.122918}

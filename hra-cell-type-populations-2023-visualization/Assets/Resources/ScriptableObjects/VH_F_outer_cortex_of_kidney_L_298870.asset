@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Tissue-resident Macrophage
-  position: {x: 0.0528435, y: 0.286237, z: -0.0972669}
+  cellType: Medullary Thick Ascending Limb
+  position: {x: 0.0831479, y: 0.231396, z: -0.122417}

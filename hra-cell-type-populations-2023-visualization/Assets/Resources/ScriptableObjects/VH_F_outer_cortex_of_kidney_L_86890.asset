@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Connecting Tubule Intercalated Type A
-  position: {x: 0.0621617, y: 0.201346, z: -0.0757612}
+  cellType: Connecting Tubule
+  position: {x: 0.101518, y: 0.214027, z: -0.0840721}

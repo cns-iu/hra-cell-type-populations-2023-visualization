@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Medullary Thick Ascending Limb
-  position: {x: 0.0985885, y: 0.25864, z: -0.096331}
+  cellType: Inner Medullary Collecting Duct
+  position: {x: 0.0667231, y: 0.284812, z: -0.107379}

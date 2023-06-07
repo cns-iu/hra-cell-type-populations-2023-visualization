@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Renin-positive Juxtaglomerular Granular
-  position: {x: 0.0663795, y: 0.207859, z: -0.106838}
+  cellType: M2 Macrophage
+  position: {x: 0.0766092, y: 0.284217, z: -0.114312}

@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Monocyte-derived
-  position: {x: 0.0590921, y: 0.295282, z: -0.103859}
+  cellType: Inner Medullary Collecting Duct
+  position: {x: 0.0670801, y: 0.199758, z: -0.0886767}

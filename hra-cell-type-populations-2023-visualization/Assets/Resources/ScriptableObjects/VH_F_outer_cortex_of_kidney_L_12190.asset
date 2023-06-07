@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Ascending Vasa Recta Endothelial
-  position: {x: 0.0726909, y: 0.281482, z: -0.107848}
+  cellType: Connecting Tubule
+  position: {x: 0.0592059, y: 0.199714, z: -0.0847029}

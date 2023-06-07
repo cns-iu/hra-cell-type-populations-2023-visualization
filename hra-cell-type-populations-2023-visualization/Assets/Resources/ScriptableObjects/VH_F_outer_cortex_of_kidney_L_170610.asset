@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Fibroblast
-  position: {x: 0.0839289, y: 0.265849, z: -0.127273}
+  cellType: Glomerular Capillary Endothelial
+  position: {x: 0.0823984, y: 0.184019, z: -0.0901463}

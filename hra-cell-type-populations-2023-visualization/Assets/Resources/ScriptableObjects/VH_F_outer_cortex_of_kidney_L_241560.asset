@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Plasma
-  position: {x: 0.0861765, y: 0.272315, z: -0.108542}
+  cellType: Inner Medullary Collecting Duct
+  position: {x: 0.0430729, y: 0.269755, z: -0.104169}

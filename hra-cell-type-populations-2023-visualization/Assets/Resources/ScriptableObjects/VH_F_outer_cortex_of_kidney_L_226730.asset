@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Papillary Tip Epithelial
-  position: {x: 0.0572336, y: 0.224283, z: -0.0980423}
+  cellType: Inner Medullary Collecting Duct
+  position: {x: 0.0657955, y: 0.276536, z: -0.130351}

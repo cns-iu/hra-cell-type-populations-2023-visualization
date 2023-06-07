@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Distal Convoluted Tubule Type 2
-  position: {x: 0.104501, y: 0.202664, z: -0.0884897}
+  cellType: Glomerular Capillary Endothelial
+  position: {x: 0.109587, y: 0.227599, z: -0.0946548}

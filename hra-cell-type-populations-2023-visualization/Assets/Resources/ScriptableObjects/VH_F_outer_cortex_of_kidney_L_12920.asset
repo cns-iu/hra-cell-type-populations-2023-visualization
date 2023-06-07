@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Classical Dendritic
-  position: {x: 0.0429958, y: 0.2604, z: -0.0974307}
+  cellType: Connecting Tubule
+  position: {x: 0.0715561, y: 0.191208, z: -0.0754825}

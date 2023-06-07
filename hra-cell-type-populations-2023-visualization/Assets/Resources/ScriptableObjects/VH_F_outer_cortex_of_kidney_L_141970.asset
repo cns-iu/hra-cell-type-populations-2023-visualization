@@ -15,4 +15,4 @@ MonoBehaviour:
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
   cellType: Distal Convoluted Tubule Type 1
-  position: {x: 0.0914688, y: 0.185957, z: -0.0816992}
+  position: {x: 0.0900224, y: 0.188957, z: -0.0701407}
