@@ -22,12 +22,9 @@ public class Visualizer : MonoBehaviour
     [SerializeField] int _readIterator = 10;
 
     [Header("Visual Encoding")]
-    [SerializeField] private List<Color> _colors = new List<Color>();
-    [SerializeField] private Dictionary<string, Color> _colorMapping = new Dictionary<string, Color>();
-    [SerializeField] private List<ColorMapping> _mapping = new List<ColorMapping>();
-
+    [SerializeField] private SO_ColorMapping _mapping;
     [SerializeField] private int _maxNumberCellTypes = 10;
-    [SerializeField] private List<Color> _colorBrewer = new List<Color>();
+    [SerializeField] private bool _onlyShowTopCells = false;
 
     [Header("3D Scene")]
     [SerializeField] private GameObject _pre_cell;
@@ -60,7 +57,9 @@ public class Visualizer : MonoBehaviour
 
         for (int i = 0; i < sos.Length; i += _readIterator)
         {
-            if (!_topCellTypes.Contains(sos[i].cellType)) continue;
+            //uncomment if wanting to display top cell types only
+            Debug.Log(!_topCellTypes.Contains(sos[i].cellType) && _onlyShowTopCells);
+            if (!_topCellTypes.Contains(sos[i].cellType) && _onlyShowTopCells) continue;
 
             GameObject cellObj = MakeCell(sos[i]);
             cellObj.AddComponent<CellData>().type = sos[i].cellType;
@@ -69,7 +68,6 @@ public class Visualizer : MonoBehaviour
         }
 
         _uniqueCellTypes = unique.ToList();
-        _colors = CreateColorSet();
 
 
 
@@ -89,29 +87,9 @@ public class Visualizer : MonoBehaviour
 
     private Color GetColor(string cellType)
     {
-        //return _colorMapping[cellType];
-        //Debug.Log(cellType);
-        return _mapping.Where(i => i.cellType.Equals(cellType)).First().color;
-    }
-
-    private List<Color> CreateColorSet()
-    {
-        int customSeed = 1234;
-        UnityEngine.Random.InitState(customSeed);
-
-        List<Color> result = new List<Color>();
-        for (int i = 0; i < _uniqueCellTypes.Count; i++)
-        {
-            Color c = new Color(
-                    UnityEngine.Random.Range(.3f, 1f),
-                    UnityEngine.Random.Range(.3f, 1f),
-                    UnityEngine.Random.Range(.3f, 1f)
-                );
-
-            result.Add(c);
-            _colorMapping.Add(_uniqueCellTypes[i], c);
-        }
-        return result;
+        return _mapping.cellTypeToColorMapping
+            .Where(i => i.cellType.Trim().Equals(cellType.Trim()))
+            .First().cellColor;
     }
 
     private GameObject MakeCell(SO_CellTypeCount count)
