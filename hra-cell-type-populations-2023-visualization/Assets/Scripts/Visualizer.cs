@@ -58,7 +58,6 @@ public class Visualizer : MonoBehaviour
         for (int i = 0; i < sos.Length; i += _readIterator)
         {
             //uncomment if wanting to display top cell types only
-            Debug.Log(!_topCellTypes.Contains(sos[i].cellType) && _onlyShowTopCells);
             if (!_topCellTypes.Contains(sos[i].cellType) && _onlyShowTopCells) continue;
 
             GameObject cellObj = MakeCell(sos[i]);
