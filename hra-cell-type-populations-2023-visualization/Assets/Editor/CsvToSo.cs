@@ -6,14 +6,17 @@ using UnityEngine;
 
 public class CsvToSo : MonoBehaviour
 {
-    private static string root = "Assets/Resources/Cells";
+    
+    private static string _rootCellPositions = "Assets/Resources/Cells";
+    private static string _rootColorMapping = "Assets/Resources";
 
-    [MenuItem("Utilities/IngestCellPositions")]
+    //uncomment for usage; commented out to avoid accidental trigger
+    //[MenuItem("Utilities/IngestCellPositions")]
 
     public static void GetCorrelationMatrices()
     {
 
-        foreach (string file in Directory.GetFiles(root, "*.csv"))
+        foreach (string file in Directory.GetFiles(_rootCellPositions, "*.csv"))
         {
             string[] allLines = File.ReadAllLines(file);
 
@@ -36,6 +39,32 @@ public class CsvToSo : MonoBehaviour
                 AssetDatabase.CreateAsset(count, $"Assets/Resources/ScriptableObjects/{count.anatomicalStructure}_{i}.asset");
             }
         }
+        AssetDatabase.SaveAssets();
+    }
+
+    [MenuItem("Utilities/IngestColorMapping")]
+    public static void GetColorMapping() {
+
+        SO_ColorMapping mapping = ScriptableObject.CreateInstance<SO_ColorMapping>();
+
+        foreach (string file in Directory.GetFiles(_rootColorMapping, "*.csv"))
+        {
+            string[] allLines = File.ReadAllLines(file);
+
+            //note that we are only showing 10% of all cells in CSV (which is 1% of cells in CT summary, so 0.1% of all cells)
+            for (int i = 0; i < allLines.Length; i ++)
+            {
+                if (allLines[i].Split(',')[0] == "color_array") continue;
+                //if (line.Split(',')[1] == "VH_F_kidney_capsule_R") continue;
+
+
+                mapping.cellTypeToColorMapping.Add(new CellTypeColorPair(allLines[i].Split(',')[1], allLines[i].Split(',')[0]));
+               //mapping.
+
+                
+            }
+        }
+        AssetDatabase.CreateAsset(mapping, $"Assets/Resources/ColorMapping.asset");
         AssetDatabase.SaveAssets();
     }
 }

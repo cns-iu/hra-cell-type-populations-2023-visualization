@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Natural Killer T
-  position: {x: 0.0860619, y: 0.243803, z: -0.126055}
+  cellType: Medullary Thick Ascending Limb
+  position: {x: 0.0654599, y: 0.204583, z: -0.0988427}

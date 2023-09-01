@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: T
-  position: {x: 0.0811218, y: 0.226062, z: -0.128895}
+  cellType: M2 Macrophage
+  position: {x: 0.0674423, y: 0.197204, z: -0.102825}

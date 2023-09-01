@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Fibroblast
-  position: {x: 0.0770524, y: 0.283892, z: -0.108666}
+  cellType: Inner Medullary Collecting Duct
+  position: {x: 0.0774757, y: 0.22401, z: -0.0646216}

@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Neutrophil
-  position: {x: 0.0702763, y: 0.198652, z: -0.104911}
+  cellType: Inner Medullary Collecting Duct
+  position: {x: 0.0687441, y: 0.249456, z: -0.125918}

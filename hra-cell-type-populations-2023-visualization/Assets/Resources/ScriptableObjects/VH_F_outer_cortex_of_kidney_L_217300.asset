@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Mesangial
-  position: {x: 0.0905969, y: 0.22885, z: -0.129399}
+  cellType: Inner Medullary Collecting Duct
+  position: {x: 0.101202, y: 0.25983, z: -0.0959053}

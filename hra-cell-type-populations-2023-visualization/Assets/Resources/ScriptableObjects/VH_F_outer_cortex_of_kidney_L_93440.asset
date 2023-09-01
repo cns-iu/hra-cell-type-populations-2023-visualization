@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Cortical Collecting Duct Intercalated Type A
-  position: {x: 0.0801158, y: 0.222358, z: -0.126539}
+  cellType: Connecting Tubule
+  position: {x: 0.0554079, y: 0.276049, z: -0.0885167}

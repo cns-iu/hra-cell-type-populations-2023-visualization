@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Descending Thin Limb Type 2
-  position: {x: 0.0982775, y: 0.234822, z: -0.118171}
+  cellType: 'Descending Vasa Recta Endothelial '
+  position: {x: 0.098811, y: 0.186222, z: -0.0904837}

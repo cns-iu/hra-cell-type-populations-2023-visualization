@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Proximal Tubule Epithelial Segment 3
-  position: {x: 0.10357, y: 0.225294, z: -0.0874168}
+  cellType: Inner Medullary Collecting Duct
+  position: {x: 0.0664952, y: 0.291234, z: -0.119003}

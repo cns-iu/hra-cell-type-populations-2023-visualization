@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Glomerular Capillary Endothelial
-  position: {x: 0.0852333, y: 0.204758, z: -0.0664574}
+  cellType: Inner Medullary Collecting Duct
+  position: {x: 0.066, y: 0.192075, z: -0.0960915}

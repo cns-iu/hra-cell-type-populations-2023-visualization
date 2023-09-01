@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: 'Peritubular Capilary Endothelial '
-  position: {x: 0.0487351, y: 0.241915, z: -0.0979814}
+  cellType: Medullary Thick Ascending Limb
+  position: {x: 0.0692868, y: 0.185235, z: -0.0827074}

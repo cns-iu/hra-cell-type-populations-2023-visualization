@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: T
-  position: {x: 0.0896809, y: 0.180739, z: -0.0775826}
+  cellType: Macula Densa
+  position: {x: 0.0935276, y: 0.189961, z: -0.076828}

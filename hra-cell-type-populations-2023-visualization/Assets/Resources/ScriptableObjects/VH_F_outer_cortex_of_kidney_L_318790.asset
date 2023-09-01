@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Non-classical monocyte
-  position: {x: 0.0648756, y: 0.277608, z: -0.132583}
+  cellType: Medullary Thick Ascending Limb
+  position: {x: 0.102788, y: 0.253599, z: -0.110047}

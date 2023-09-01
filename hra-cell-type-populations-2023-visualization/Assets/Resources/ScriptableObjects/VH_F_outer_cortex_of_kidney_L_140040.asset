@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Descending Vasa Recta Endothelial
-  position: {x: 0.0889912, y: 0.232257, z: -0.127475}
+  cellType: Distal Convoluted Tubule Type 1
+  position: {x: 0.0760187, y: 0.178436, z: -0.079916}

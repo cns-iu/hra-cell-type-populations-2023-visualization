@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Peritubular Capilary Endothelial
-  position: {x: 0.0943347, y: 0.21833, z: -0.123248}
+  cellType: Inner Medullary Collecting Duct
+  position: {x: 0.094428, y: 0.186727, z: -0.0802718}

@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Ascending Thin Limb
-  position: {x: 0.0832074, y: 0.210733, z: -0.12098}
+  cellType: Medullary Thick Ascending Limb
+  position: {x: 0.0506464, y: 0.268337, z: -0.115389}

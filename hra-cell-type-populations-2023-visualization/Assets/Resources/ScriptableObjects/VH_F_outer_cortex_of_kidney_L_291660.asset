@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Proximal Tubule Epithelial Segment 3
-  position: {x: 0.0607556, y: 0.219973, z: -0.10789}
+  cellType: Intercalated Type B
+  position: {x: 0.0964715, y: 0.20476, z: -0.106626}

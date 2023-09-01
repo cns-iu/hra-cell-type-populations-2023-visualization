@@ -15,4 +15,4 @@ MonoBehaviour:
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
   cellType: Connecting Tubule
-  position: {x: 0.0743372, y: 0.27698, z: -0.0915067}
+  position: {x: 0.0673017, y: 0.238569, z: -0.124656}

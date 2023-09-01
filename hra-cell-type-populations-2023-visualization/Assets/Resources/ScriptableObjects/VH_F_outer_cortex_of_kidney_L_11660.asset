@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Afferent / Efferent Arteriole Endothelial
-  position: {x: 0.0790168, y: 0.1912, z: -0.0965185}
+  cellType: Connecting Tubule
+  position: {x: 0.0859137, y: 0.229335, z: -0.0717966}

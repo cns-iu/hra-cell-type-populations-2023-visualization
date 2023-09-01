@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Cortical Collecting Duct Principal
-  position: {x: 0.0847302, y: 0.266846, z: -0.12805}
+  cellType: Connecting Tubule
+  position: {x: 0.0779119, y: 0.244646, z: -0.12764}

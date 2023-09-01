@@ -15,4 +15,4 @@ MonoBehaviour:
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
   cellType: Descending Thin Limb Type 2
-  position: {x: 0.0969104, y: 0.245744, z: -0.117321}
+  position: {x: 0.0675121, y: 0.207478, z: -0.0742808}

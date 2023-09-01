@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Distal Convoluted Tubule Type 2
-  position: {x: 0.0563313, y: 0.262148, z: -0.122853}
+  cellType: Fibroblast
+  position: {x: 0.103896, y: 0.247346, z: -0.0856124}

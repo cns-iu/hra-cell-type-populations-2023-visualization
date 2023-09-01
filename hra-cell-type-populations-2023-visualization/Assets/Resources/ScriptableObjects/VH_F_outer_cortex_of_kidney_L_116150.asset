@@ -15,4 +15,4 @@ MonoBehaviour:
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
   cellType: Cortical Thick Ascending Limb
-  position: {x: 0.0914701, y: 0.252941, z: -0.0806606}
+  position: {x: 0.0895298, y: 0.197561, z: -0.113312}

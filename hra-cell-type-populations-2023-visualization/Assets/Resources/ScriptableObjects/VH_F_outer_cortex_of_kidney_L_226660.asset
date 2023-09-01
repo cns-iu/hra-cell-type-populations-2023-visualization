@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Outer Medullary Collecting Duct Intercalated Type A
-  position: {x: 0.0725521, y: 0.283172, z: -0.119533}
+  cellType: Inner Medullary Collecting Duct
+  position: {x: 0.0727432, y: 0.191222, z: -0.0871036}

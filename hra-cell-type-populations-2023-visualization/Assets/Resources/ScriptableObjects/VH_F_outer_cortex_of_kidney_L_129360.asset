@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   organ: VH_F_Kidney_L
   anatomicalStructure: VH_F_outer_cortex_of_kidney_L
-  cellType: Cortical Vascular Smooth Muscle / Pericyte
-  position: {x: 0.0748722, y: 0.222288, z: -0.066241}
+  cellType: Descending Thin Limb Type 2
+  position: {x: 0.111677, y: 0.214016, z: -0.0930143}
