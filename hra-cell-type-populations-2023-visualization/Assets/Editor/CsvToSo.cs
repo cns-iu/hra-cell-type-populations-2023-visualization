@@ -7,21 +7,21 @@ using UnityEngine;
 public class CsvToSo : MonoBehaviour
 {
     
-    private static string _rootCellPositions = "Assets/Resources/Cells";
+    private static string _rootCellPositions = "Assets/Resources";
     private static string _rootColorMapping = "Assets/Resources";
 
     //uncomment for usage; commented out to avoid accidental trigger
-    //[MenuItem("Utilities/IngestCellPositions")]
+    [MenuItem("Utilities/IngestCellPositions")]
 
-    public static void GetCorrelationMatrices()
+    public static void GetCells()
     {
 
         foreach (string file in Directory.GetFiles(_rootCellPositions, "*.csv"))
         {
             string[] allLines = File.ReadAllLines(file);
 
-            //note that we are only showing 10% of all cells in CSV (which is 1% of cells in CT summary, so 0.1% of all cells)
-            for (int i = 0; i < allLines.Length; i += 10)
+            //add note on how many cells are are actually showing
+            for (int i = 0; i < allLines.Length; i += 1000)
             {
                 if (allLines[i].Split(',')[0] == "organ") continue;
                 //if (line.Split(',')[1] == "VH_F_kidney_capsule_R") continue;
@@ -36,7 +36,7 @@ public class CsvToSo : MonoBehaviour
                     float.Parse(allLines[i].Split(',')[5])
                     );
 
-                AssetDatabase.CreateAsset(count, $"Assets/Resources/ScriptableObjects/{count.anatomicalStructure}_{i}.asset");
+                AssetDatabase.CreateAsset(count, $"Assets/Resources/ScriptableObjects/09_2023/{count.anatomicalStructure}_{i}.asset");
             }
         }
         AssetDatabase.SaveAssets();
