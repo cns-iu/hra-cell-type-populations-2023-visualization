@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
+using System;
 using UnityEditor;
 using UnityEngine;
 
@@ -23,20 +24,29 @@ public class CsvToSo : MonoBehaviour
             //add note on how many cells are are actually showing
             for (int i = 0; i < allLines.Length; i += 1000)
             {
-                if (allLines[i].Split(',')[0] == "organ") continue;
-                //if (line.Split(',')[1] == "VH_F_kidney_capsule_R") continue;
+                try
+                {
+                    if (allLines[i].Split(',')[0] == "organ") continue;
+                    //if (line.Split(',')[1] == "VH_F_kidney_capsule_R") continue;
 
-                SO_CellTypeCount count = ScriptableObject.CreateInstance<SO_CellTypeCount>();
-                count.organ = allLines[i].Split(',')[0];
-                count.anatomicalStructure = allLines[i].Split(",")[1];
-                count.cellType = allLines[i].Split(",")[2];
-                count.position = new Vector3(
-                    float.Parse(allLines[i].Split(',')[3]),
-                    float.Parse(allLines[i].Split(',')[4]),
-                    float.Parse(allLines[i].Split(',')[5])
-                    );
+                    SO_CellTypeCount count = ScriptableObject.CreateInstance<SO_CellTypeCount>();
+                    count.organ = allLines[i].Split(',')[0];
+                    count.anatomicalStructure = allLines[i].Split(",")[1];
+                    count.cellType = allLines[i].Split(",")[2];
+                    count.position = new Vector3(
+                        float.Parse(allLines[i].Split(',')[3]),
+                        float.Parse(allLines[i].Split(',')[4]),
+                        float.Parse(allLines[i].Split(',')[5])
+                        );
 
-                AssetDatabase.CreateAsset(count, $"Assets/Resources/ScriptableObjects/09_2023/{count.anatomicalStructure}_{i}.asset");
+                    AssetDatabase.CreateAsset(count, $"Assets/Resources/ScriptableObjects/09_2023/{count.anatomicalStructure}_{i}.asset");
+                }
+                catch (Exception ex)
+                {
+
+                    Debug.Log($"Exception at iterator {i}");
+                }
+               
             }
         }
         AssetDatabase.SaveAssets();
