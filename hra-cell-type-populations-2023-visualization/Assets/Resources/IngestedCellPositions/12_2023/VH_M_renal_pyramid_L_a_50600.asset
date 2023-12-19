@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 317a5fa022f8e434ea31fca29b955c0d, type: 3}
+  m_Name: VH_M_renal_pyramid_L_a_50600
+  m_EditorClassIdentifier: 
+  asLabel: VH_M_renal_pyramid_L_a
+  uberonId: http://purl.obolibrary.org/obo/UBERON_0004200
+  cellLabel: kidney interstitial fibroblast
+  cellId: CL:0000057
+  position: {x: 0.0600971, y: 0.331103, z: -0.0393017}

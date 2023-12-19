@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 317a5fa022f8e434ea31fca29b955c0d, type: 3}
+  m_Name: VH_M_renal_pyramid_L_h_115175
+  m_EditorClassIdentifier: 
+  asLabel: VH_M_renal_pyramid_L_h
+  uberonId: http://purl.obolibrary.org/obo/UBERON_0004200
+  cellLabel: kidney loop of Henle short descending thin limb epithelial cell
+  cellId: CL:4030012
+  position: {x: 0.0769485, y: 0.278059, z: -0.0219004}

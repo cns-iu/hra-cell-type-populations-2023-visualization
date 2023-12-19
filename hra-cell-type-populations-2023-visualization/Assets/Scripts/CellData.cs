@@ -5,4 +5,5 @@ using UnityEngine;
 public class CellData : MonoBehaviour
 {
     public string type;
+    public string anatomicalStructure;
 }
